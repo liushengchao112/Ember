@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4185714955
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2695d1bb2d46e308b304d95916397fdc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/AudioClip/Battle/chest_rare_01.mp3
+- Assets/Art/AudioClip/Battle/common_shibai_defeat.mp3
+- Assets/Art/AudioClip/Battle/buff.mp3
+- Assets/Art/AudioClip/Battle/Death_Female.wav
+- Assets/Art/AudioClip/Battle/chest_common_02.mp3
+- Assets/Art/AudioClip/Battle/PowerUpEnd.mp3
+- Assets/Art/AudioClip/Battle/danweishengcheng.wav
+- Assets/Art/AudioClip/Battle/Hit_2.wav
+- Assets/Art/AudioClip/Battle/chest_epic_02.mp3
+- Assets/Art/AudioClip/Battle/chest_mythic_02.mp3
+- Assets/Art/AudioClip/Battle/Hit_3.wav
+- Assets/Art/AudioClip/Battle/common_shengli_victory.mp3
+- Assets/Art/AudioClip/Battle/Hit_1.wav
+- Assets/Art/AudioClip/Battle/Hit_4.wav
+- Assets/Art/AudioClip/Battle/Death_Male.wav
+- Assets/Art/AudioClip/Battle/PowerUpDrop.mp3
+- Assets/Art/AudioClip/Battle/Red_Tower_Down.mp3
+Dependencies: []

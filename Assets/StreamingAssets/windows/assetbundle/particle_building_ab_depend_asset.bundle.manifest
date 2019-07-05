@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 3518087510
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4365889cd7553cbe66abacca799fc3a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c2fc9ceaaba64a91f869eaa25887be1c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Particle/Building/Materials/Unique/shanguang_00219.mat
+- Assets/Art/Particle/Building/Materials/Unique/xilie_glow08700_4x4.mat
+- Assets/Art/Particle/Building/Materials/Unique/xulie_shandian007_1x4.mat
+- Assets/Art/Particle/Building/Materials/Common/path_00528.mat
+- Assets/Art/Particle/Building/Texture/Unique/shanguang_00221_t.png
+- Assets/Art/Particle/Building/Texture/Unique/xulie_fire075_4x4_w.tga
+- Assets/Art/Particle/Building/Texture/Common/glow_003390_t.png
+- Assets/Art/Particle/Building/Models/c_Base_001.FBX
+- Assets/Art/Particle/Building/Materials/Common/xulie_shitou01_4x4.mat
+- Assets/Art/Particle/Building/Texture/Unique/shanguang_00219_t.png
+- Assets/Art/Particle/Character/Models/backcity01_mesh01.FBX
+- Assets/Art/Particle/Building/Texture/Unique/path_00511_s.tga
+- Assets/Art/Particle/Character/Texture/Common/wenli_00319_t.png
+- Assets/Art/Particle/Building/Texture/Unique/path_00412_s.tga
+- Assets/Art/Particle/Building/Texture/Unique/xilie_glow08700_4x4_t.png
+- Assets/Art/Particle/Building/Texture/Common/wenli_00515_s.tga
+- Assets/Art/Particle/Building/Texture/Common/wenli_00514_t.png
+- Assets/Art/Particle/Building/Texture/Common/path_00508_t.png
+- Assets/Art/Particle/Building/Materials/Unique/shanguang_00175.mat
+- Assets/Art/Particle/Building/Texture/Common/path_00507_t.png
+- Assets/Art/Particle/Building/Texture/Common/lizi_00015_w.png
+- Assets/Art/Particle/Building/Materials/Unique/shanguang_00178.mat
+- Assets/Art/Particle/Building/Materials/Common/lizi_00015.mat
+- Assets/Art/Particle/Building/Materials/Unique/xulie_fire056_4x4.mat
+- Assets/Art/Particle/Building/Materials/Common/glow_003390.mat
+- Assets/Art/Particle/Building/Materials/Unique/xulie_fire075_4x4.mat
+- Assets/Art/Particle/Building/Materials/Unique/shanguang_00221.mat
+- Assets/Art/Particle/Building/Texture/Unique/shanguang_00175_t.png
+- Assets/Art/Particle/Building/Materials/Unique/path_00412.mat
+- Assets/Art/Particle/Building/Texture/Unique/xulie_fire056_4x4_w.tga
+- Assets/Art/Particle/Building/Materials/Unique/Distortion_base.mat
+- Assets/Art/Particle/Building/Texture/Common/path_00528_s.tga
+- Assets/Art/Particle/Building/Texture/Common/xulie_shitou01_4x4_s.png
+- Assets/Art/Particle/Building/Materials/Common/xulie_fire071_4x4.mat
+- Assets/Art/Particle/Building/Texture/Unique/shanguang_00178_t.png
+- Assets/Art/Particle/Building/Materials/Common/glow_001281.mat
+- Assets/Art/Particle/Building/Texture/Unique/xulie_shandian007_1x4_s.png
+- Assets/Art/Particle/Building/Texture/Common/xulie_fire071_4x4_t.png
+- Assets/Art/Particle/Building/Materials/Common/path_00507.mat
+Dependencies:
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/common_depend_asset_ab_res.bundle

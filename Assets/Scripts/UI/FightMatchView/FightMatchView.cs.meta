@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 209f735e2ffaf6147ac0d346294da02b
+timeCreated: 1496747214
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - intoGameButton: {instanceID: 0}
+  - background: {fileID: 21300000, guid: 59313cbbf69bf6e4a8edc906eb29b5e5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

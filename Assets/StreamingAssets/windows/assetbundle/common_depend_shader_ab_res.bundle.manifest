@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4274099292
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e2237b35a7668914f07da230701e2d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc7b69794a2bdada249e557ebbfded10
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Shaders/Battle/Character/Character_Lod.shader
+- Assets/Art/Shaders/Nobuild/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Mobile/Mobile-Particle-Add.shader
+- Assets/Art/Shaders/Battle/distortion.shader
+- Assets/Art/Shaders/Nobuild/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Particle
+  Add.shader
+- Assets/Art/Shaders/Nobuild/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Normal-Diffuse.shader
+- Assets/Art/Shaders/Nobuild/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Mobile/Mobile-Particle-Alpha.shader
+- Assets/Art/Shaders/Nobuild/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Particle
+  Alpha Blend.shader
+Dependencies:
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/common_depend_asset_ab_res.bundle

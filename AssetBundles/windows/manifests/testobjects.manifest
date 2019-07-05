@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 550451981
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5150c1c9a438b51958ead5522b294a8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d88b2f20e7141c3fea63bd80fa45adff
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/UI/Tests/TestDarter.prefab
+- Assets/Resources/Prefabs/UI/Tests/TestHvyCal.prefab
+- Assets/Resources/Prefabs/UI/Tests/TestPuglings.prefab
+- Assets/Resources/Prefabs/UI/Tests/TestSagittaria.prefab
+- Assets/Resources/Prefabs/UI/Tests/TestSoulAncient.prefab
+- Assets/Resources/Prefabs/UI/Tests/TestCantabrian.prefab
+- Assets/Resources/Prefabs/UI/Tests/TestLordOfWar.prefab
+- Assets/Resources/Prefabs/UI/Tests/TestPrideborn.prefab
+- Assets/Resources/Prefabs/UI/Tests/TestReaver.prefab
+- Assets/Resources/Prefabs/UI/Tests/TestTrooper.prefab
+- Assets/Resources/Prefabs/UI/Tests/TestRanger.prefab
+- Assets/Resources/Prefabs/UI/Tests/TestShieldGuard.prefab
+- Assets/Resources/Prefabs/UI/Tests/TestLightCal.prefab
+- Assets/Resources/Prefabs/UI/Tests/TestMasterBlaster.prefab
+- Assets/Resources/Prefabs/UI/Tests/TestPhalanx.prefab
+- Assets/Resources/Prefabs/UI/Tests/TestBerserker.prefab
+Dependencies:
+- D:/Work/EmberClient/AssetBundles/windows/testsprites

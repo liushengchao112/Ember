@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1155844128
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1921c32632e9ec41b8c86ac4c4043aa2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 493defdaa0e39e514683ffa1a4156754
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6173134e600eec643a51b4df210a1af8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UI/UILoadPrefabs/NewbieGuideTexture/B_S_NewbieGuide5.prefab
+- Assets/Art/UI/UILoadPrefabs/NewbieGuideTexture/B_T_NewbieGuide1.prefab
+- Assets/Art/UI/UILoadPrefabs/NewbieGuideTexture/B_S_NewbieGuide3.prefab
+- Assets/Art/UI/UILoadPrefabs/NewbieGuideTexture/B_S_NewbieGuide4.prefab
+- Assets/Art/UI/UILoadPrefabs/NewbieGuideTexture/B_S_NewbieGuide2.prefab
+Dependencies: []

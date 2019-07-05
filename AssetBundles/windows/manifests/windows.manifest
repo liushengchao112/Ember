@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 991845468
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: testsprites
+      Dependencies: {}
+    Info_1:
+      Name: testobjects
+      Dependencies:
+        Dependency_0: testsprites
+    Info_2:
+      Name: testimageprefab
+      Dependencies: {}
+    Info_3:
+      Name: battleui
+      Dependencies: {}

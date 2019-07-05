@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3098407026
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a80f95ec615c6d4c8a3d70a39b0f149a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 17ec8542d27f988d9363248c18269a0f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Character/kaien/Prefabs/kaien_lod.prefab
+Dependencies:
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/characters_ab_depend_asset.bundle
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/particle_character_ab_depend_asset.bundle

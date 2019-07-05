@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2009148554
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cbac946fb9075237665e7cfc2bf53ebd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/AudioClip/BGM/Ember Conflict Battle Theme 3_01.mp3
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1109967981
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55ffb500231809e15d29eff7828f3048
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UI/LoadTexture/MiniMap/Circle.PNG
+- Assets/Art/UI/LoadTexture/MiniMap/MapPVE.png
+Dependencies: []

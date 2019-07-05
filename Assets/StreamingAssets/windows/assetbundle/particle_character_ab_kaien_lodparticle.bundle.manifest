@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 3452418369
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98340806a4b0b49fec59cd5b5353a363
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea85e15d57c448a400d3d50abcc3e05c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Particle/Character/Prefabs/kaien_lodParticle/kaien_lod_handtrap_1.prefab
+- Assets/Art/Particle/Character/Prefabs/kaien_lodParticle/kaien_lod_revenge_2.prefab
+- Assets/Art/Particle/Character/Prefabs/kaien_lodParticle/kaien_lod_revenge_1.prefab
+- Assets/Art/Particle/Character/Prefabs/kaien_lodParticle/kaien_lod_handtrap_4.prefab
+- Assets/Art/Particle/Character/Prefabs/kaien_lodParticle/kaien_lod_attack_2.prefab
+- Assets/Art/Particle/Character/Prefabs/kaien_lodParticle/kaien_lod_handtrap_2.prefab
+- Assets/Art/Particle/Character/Prefabs/kaien_lodParticle/kaien_lod_handtrap_3.prefab
+- Assets/Art/Particle/Character/Prefabs/kaien_lodParticle/kaien_lod_attack_1.prefab
+Dependencies:
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/common_depend_asset_ab_res.bundle
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/particle_character_ab_depend_asset.bundle

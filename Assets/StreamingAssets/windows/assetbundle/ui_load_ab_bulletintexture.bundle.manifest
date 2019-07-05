@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3048478575
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81ea1af70bd2b6e7aff81e1fdfcd3ad4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 493defdaa0e39e514683ffa1a4156754
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6173134e600eec643a51b4df210a1af8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UI/UILoadPrefabs/BulletinTexture/B_T_ggssimage03.prefab
+- Assets/Art/UI/UILoadPrefabs/BulletinTexture/B_T_ggimage01.prefab
+- Assets/Art/UI/UILoadPrefabs/BulletinTexture/B_T_ggssimage01.prefab
+- Assets/Art/UI/UILoadPrefabs/BulletinTexture/B_T_ggssimage02.prefab
+- Assets/Art/UI/UILoadPrefabs/BulletinTexture/B_T_ggimage02.prefab
+Dependencies: []

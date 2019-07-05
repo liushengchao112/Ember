@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 309731821
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ca01991a5759142245417c541163b24
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 493defdaa0e39e514683ffa1a4156754
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6173134e600eec643a51b4df210a1af8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_yueguangtuci.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_MagicTrap.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_yuexingdaji.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_bairenzhan.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_diyuzhishou.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_shenzhizhufu.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_saruina.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_hekaruina.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_siwangxianjing.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_molapaotai.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_zhimingyiji.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_cikezongji.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_daianna.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_xieechouhen.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_kulouqishi.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_chaofeng.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_baoliedan.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_shenzhijiushu.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_jishugengxin.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_aidehua.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_mofashikong.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_mofayuansu.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_zhaohuanshi.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_kaien.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_daerfen.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_shengsiyizhan.prefab
+Dependencies: []

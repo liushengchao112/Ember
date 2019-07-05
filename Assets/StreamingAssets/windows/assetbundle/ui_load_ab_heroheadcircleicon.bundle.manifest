@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4120702164
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a62cb106f865709bcac84b89f596fcc5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 493defdaa0e39e514683ffa1a4156754
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6173134e600eec643a51b4df210a1af8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UI/UILoadPrefabs/HeroHeadCircleIcon/I_T_RXLHekaruina.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroHeadCircleIcon/I_T_RXLHeifanvwu.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroHeadCircleIcon/I_T_RXLZhaoh.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroHeadCircleIcon/I_T_RXLkulou.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroHeadCircleIcon/I_T_RXLshoumo.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroHeadCircleIcon/I_T_RXLKuangbao.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroHeadCircleIcon/I_T_RXLCike.prefab
+Dependencies: []

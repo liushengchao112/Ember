@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 2572236154
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6978db0a97a8b4703d79ba76bb501a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6525a8b6c69d702a8ff5cefb447b52b5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Character/hekaruina/Texture/hekaruina_d.png
+- Assets/Art/Character/daerfen/Model/daerfen.FBX
+- Assets/Art/Character/kaien/Model/kaien_lod.FBX
+- Assets/Art/Character/kuangbaozhanshi/Model/kuangbaozhanshi_lod.FBX
+- Assets/Art/Character/cikezhiying/Texture/cikezhiying_d.png
+- Assets/Art/Character/kulouqishi/Model/kulouqishi_lod.FBX
+- Assets/Art/Character/hekaruina/Model/hekaruina_lod.FBX
+- Assets/Art/Character/kulouqishi/Model/kulouqishi.FBX
+- Assets/Art/Character/cikezhiying/Model/cikezhiying_lod.FBX
+- Assets/Art/Character/kulouqishi/Texture/kulouqishi_d.png
+- Assets/Art/Character/shitouyuansu/Texture/shitouyuansu_d.png
+- Assets/Art/Character/kaien/Model/kaien.FBX
+- Assets/Art/Character/kulouqishi/Animation/kulouqishi@out.FBX
+- Assets/Art/Character/daerfen/Model/daerfen_lod.FBX
+- Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Normal-Glossy.shader
+- Assets/Art/Character/daerfen/Texture/daerfen_d.png
+- Assets/Art/Character/zhaohuanshi/Model/zhaohuanshi.FBX
+- Assets/Art/Character/heifanvwu/Model/heifanvwu_lod.FBX
+- Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Normal-BumpSpec.shader
+- Assets/Art/Character/shitouyuansu/Model/shitouyuansu.FBX
+- Assets/Art/Character/shitouyuansu/Model/shitouyuansu_lod.FBX
+- Assets/Art/Character/zhaohuanshi/Texture/zhaohuanshi_d.png
+- Assets/Art/Character/cikezhiying/Model/cikezhiying.FBX
+- Assets/Art/Character/hekaruina/Model/hekaruina.FBX
+- Assets/Art/Character/zhaohuanshi/Model/zhaohuanshi_lod.FBX
+- Assets/Art/Character/heifanvwu/Texture/heifanvwu_d.png
+- Assets/Art/Character/heifanvwu/Model/heifanvwu.FBX
+- Assets/Art/Character/kuangbaozhanshi/Model/kuangbaozhanshi.FBX
+Dependencies: []

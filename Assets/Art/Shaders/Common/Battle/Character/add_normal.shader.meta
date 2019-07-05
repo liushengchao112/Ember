@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 451a32c730c73f34aa683d18f0af17de
+timeCreated: 1506051942
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: 87958bebe30bbcc449806c57a6252147, type: 3}
+  - _niuqu_tex: {fileID: 2800000, guid: dd332f7569301644b8a6eff38488ceaa, type: 3}
+  - _zhezhao: {fileID: 2800000, guid: fa7902415b3ebfa438f7dae97b0de193, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

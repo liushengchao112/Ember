@@ -1,0 +1,97 @@
+ManifestFileVersion: 0
+CRC: 2732853320
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fbdf23a0ef0420afb4d7b83da4835625
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c779f9c875c9ee4bb1858a77951478a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Particle/Character/Texture/Common/shanguang_00142_t.png
+- Assets/Art/Particle/Common/Texture/glow_00175_s.png
+- Assets/Art/Particle/Building/Materials/Unique/xulie_yan086_1x2.mat
+- Assets/Art/Particle/Common/Materials/xilie_glow08692_4x2.mat
+- Assets/Art/Particle/Building/Models/c_lab_blue_building_003.FBX
+- Assets/Art/Particle/Building/Texture/Common/xilie_glow08698_2x2_t.png
+- Assets/Art/Particle/Building/Materials/Common/shanguang_00232.mat
+- Assets/Art/Particle/Common/Texture/xulie_shitou08_4x4_s.png
+- Assets/Art/Particle/Common/Texture/xilie_glow08699_4x4_w.png
+- Assets/Art/Particle/Common/Texture/xulie_fire066_4x4_s.png
+- Assets/Art/Particle/Character/Materials/GF_341_a.mat
+- Assets/Art/Particle/Character/Texture/Common/glow_00141_t.png
+- Assets/Art/Shaders/Common/Battle/distortion.shader
+- Assets/Art/Particle/Character/Texture/Unique/wenli_00492_t.tga
+- Assets/Art/Shaders/Common/Battle/Character/Character_Lod.shader
+- Assets/Art/Particle/Common/Texture/xilie_glow08692_4x2_s.tga
+- Assets/Art/Particle/Character/Materials/Common/shanguang_00142.mat
+- Assets/Art/Particle/Building/Materials/Common/xilie_glow08698_2x2.mat
+- Assets/Art/Particle/Building/Texture/Unique/wenli_00512_s.tga
+- Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Mobile/Mobile-Particle-Add.shader
+- Assets/Art/Particle/Character/Models/hekaruina_show_weapon001.FBX
+- Assets/Art/Particle/Building/Materials/Common/xilie_glow08696_2x2.mat
+- Assets/Art/Particle/Common/Materials/glow_00175_a.mat
+- Assets/Art/Particle/Building/Texture/Common/glow_001281_t.png
+- Assets/Art/Particle/Building/Texture/Common/wenli_00490_t.tga
+- Assets/Art/Particle/Character/Texture/Common/wenli_00455_t.png
+- Assets/Art/Particle/Common/Materials/glow_00175.mat
+- Assets/Art/Particle/Common/Texture/lizi_00017_t.png
+- Assets/Art/Particle/Building/Texture/Unique/xulie_yan086_1x2_s.png
+- Assets/Art/Particle/Common/Materials/xulie_shitou08_4x4.mat
+- Assets/Art/Particle/Building/Materials/Common/xilie_glow08697_3x3.mat
+- Assets/Art/Particle/Building/Models/c_tower_hanbingta_blue_operation_001.FBX
+- Assets/Art/Particle/Common/Materials/lizi_00017.mat
+- Assets/Art/Particle/Building/Materials/Unique/knife_101.mat
+- Assets/Art/Particle/Common/Texture/lizi_00193_s.tga
+- Assets/Art/Particle/Common/Materials/xilie_glow08699_4x4.mat
+- Assets/Art/Particle/Building/Texture/Common/xilie_glow08697_3x3_t.png
+- Assets/Art/Particle/Building/Texture/Unique/knife_101_s.tga
+- Assets/Art/Particle/Building/Texture/Common/glow_003387_t.png
+- Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Particle
+  Add.shader
+- Assets/Art/Particle/Common/Texture/shanguang_00132_t.tga
+- Assets/Art/Particle/Building/Materials/Common/wenli_00490.mat
+- Assets/Art/Character/kaien/Texture/kaien_d.png
+- Assets/Art/Particle/Character/Materials/Common/glow_00141.mat
+- Assets/Art/Particle/Building/Texture/Common/xilie_glow08696_2x2_t.png
+- Assets/Art/Particle/Common/Materials/xulie_fire066_4x4_a.mat
+- Assets/Art/Particle/Common/Materials/lizi_00193.mat
+- Assets/Art/Particle/Character/Texture/GF_341.tga
+- Assets/Art/Particle/Building/Texture/Common/shanguang_00232_t.png
+- Assets/Art/Particle/Building/Materials/Common/shanguang_00231.mat
+- Assets/Art/Particle/Building/Texture/Common/shanguang_00231_t.png
+- Assets/Art/Particle/Common/Materials/shanguang_00132.mat
+- Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Normal-Diffuse.shader
+- Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Mobile/Mobile-Particle-Alpha.shader
+- Assets/Art/Particle/Character/Texture/Unique/wenli_00163_s.png
+- Assets/Art/Particle/Common/Texture/shanguang_00212_s.png
+- Assets/Art/Particle/Building/Models/c_lab_blue_death_001.FBX
+- Assets/Art/Particle/Building/Models/c_lab_blue_finish_001.FBX
+- Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Particle
+  Alpha Blend.shader
+- Assets/Art/Particle/Common/Materials/shanguang_00212.mat
+- Assets/Art/Particle/Building/Models/c_lab_blue_building_001.FBX
+- Assets/Art/Particle/Character/Materials/Common/xulie_shitou02_2x2.mat
+- Assets/Art/Particle/Building/Materials/Common/glow_003387.mat
+- Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Normal-VertexLit.shader
+- Assets/Art/Particle/Character/Texture/Common/xulie_shitou02_2x2_s.png
+- Assets/Art/Particle/Building/Models/c_lab_blue_building_002.FBX
+Dependencies: []

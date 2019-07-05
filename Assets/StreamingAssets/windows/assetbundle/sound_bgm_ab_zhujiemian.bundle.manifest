@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3752596906
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 713846963015fb1599bed37e513244f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/AudioClip/BGM/zhujiemian.mp3
+Dependencies: []

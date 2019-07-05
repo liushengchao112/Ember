@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1024184309
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5ada178944b418af2c722a671341173
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 493defdaa0e39e514683ffa1a4156754
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6173134e600eec643a51b4df210a1af8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UI/UILoadPrefabs/HeroHeadSquareIcon/I_T_HekaruinaAvatar.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroHeadSquareIcon/I_T_ZhaohAvatar.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroHeadSquareIcon/I_T_HeifanvwuAvatar.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroHeadSquareIcon/I_T_KulouAvatar.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroHeadSquareIcon/I_T_ShoumoAvatar.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroHeadSquareIcon/I_T_CikeAvatar.prefab
+- Assets/Art/UI/UILoadPrefabs/HeroHeadSquareIcon/I_T_KuangbaoAvatar.prefab
+Dependencies: []

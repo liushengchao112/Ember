@@ -1,0 +1,664 @@
+      
+依赖资源
+common_depend_asset_AB_res.bundle(无需配表)：
+    Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Mobile/Mobile-Particle-Add.shader
+    Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Normal-VertexLit.shader
+    Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Mobile/Mobile-Particle-Alpha.shader
+    Assets/Art/Particle/Common/Texture/glow_00175_s.png
+    Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Normal-Diffuse.shader
+    Assets/Art/Particle/Common/Materials/glow_00175.mat
+    Assets/Art/Particle/Character/Texture/GF_341.tga
+    Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Particle Alpha Blend.shader
+    Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Particle Add.shader
+    Assets/Art/Particle/Common/Materials/xilie_glow08692_4x2.mat
+    Assets/Art/Particle/Common/Texture/xilie_glow08692_4x2_s.tga
+    Assets/Art/Particle/Common/Materials/glow_00175_a.mat
+    Assets/Art/Particle/Character/Materials/GF_341_a.mat
+    Assets/Art/Particle/Common/Materials/xulie_shitou08_4x4.mat
+    Assets/Art/Particle/Common/Texture/xulie_shitou08_4x4_s.png
+    Assets/Art/Particle/Character/Models/hekaruina_show_weapon001.FBX
+    Assets/Art/Shaders/Common/Battle/Character/Character_Lod.shader
+    Assets/Art/Character/kaien/Texture/kaien_d.png
+    Assets/Art/Particle/Common/Texture/xulie_fire066_4x4_s.png
+    Assets/Art/Particle/Common/Materials/xulie_fire066_4x4_a.mat
+    Assets/Art/Particle/Character/Materials/Common/shanguang_00142.mat
+    Assets/Art/Particle/Character/Texture/Common/shanguang_00142_t.png
+    Assets/Art/Particle/Character/Texture/Unique/wenli_00492_t.tga
+    Assets/Art/Particle/Common/Materials/lizi_00193.mat
+    Assets/Art/Particle/Common/Texture/lizi_00193_s.tga
+    Assets/Art/Particle/Building/Materials/Common/xilie_glow08696_2x2.mat
+    Assets/Art/Particle/Building/Texture/Common/xilie_glow08696_2x2_t.png
+    Assets/Art/Particle/Building/Models/c_lab_blue_finish_001.FBX
+    Assets/Art/Particle/Common/Materials/lizi_00017.mat
+    Assets/Art/Particle/Common/Texture/lizi_00017_t.png
+    Assets/Art/Particle/Building/Models/c_lab_blue_death_001.FBX
+    Assets/Art/Particle/Building/Texture/Common/glow_001281_t.png
+    Assets/Art/Particle/Building/Texture/Unique/wenli_00512_s.tga
+    Assets/Art/Particle/Building/Materials/Common/xilie_glow08697_3x3.mat
+    Assets/Art/Particle/Building/Texture/Common/xilie_glow08697_3x3_t.png
+    Assets/Art/Particle/Building/Models/c_lab_blue_building_001.FBX
+    Assets/Art/Particle/Building/Models/c_lab_blue_building_002.FBX
+    Assets/Art/Particle/Building/Models/c_lab_blue_building_003.FBX
+    Assets/Art/Particle/Common/Materials/shanguang_00212.mat
+    Assets/Art/Particle/Common/Texture/shanguang_00212_s.png
+    Assets/Art/Particle/Building/Materials/Unique/knife_101.mat
+    Assets/Art/Particle/Building/Texture/Unique/knife_101_s.tga
+    Assets/Art/Particle/Building/Materials/Unique/xulie_yan086_1x2.mat
+    Assets/Art/Particle/Building/Texture/Unique/xulie_yan086_1x2_s.png
+    Assets/Art/Particle/Common/Materials/shanguang_00132.mat
+    Assets/Art/Particle/Common/Texture/shanguang_00132_t.tga
+    Assets/Art/Particle/Character/Texture/Unique/wenli_00163_s.png
+    Assets/Art/Shaders/Common/Battle/distortion.shader
+    Assets/Art/Particle/Character/Texture/Common/wenli_00455_t.png
+    Assets/Art/Particle/Character/Materials/Common/glow_00141.mat
+    Assets/Art/Particle/Character/Texture/Common/glow_00141_t.png
+    Assets/Art/Particle/Common/Materials/xilie_glow08699_4x4.mat
+    Assets/Art/Particle/Common/Texture/xilie_glow08699_4x4_w.png
+    Assets/Art/Particle/Building/Materials/Common/xilie_glow08698_2x2.mat
+    Assets/Art/Particle/Building/Texture/Common/xilie_glow08698_2x2_t.png
+    Assets/Art/Particle/Building/Materials/Common/wenli_00490.mat
+    Assets/Art/Particle/Building/Texture/Common/wenli_00490_t.tga
+    Assets/Art/Particle/Building/Materials/Common/shanguang_00231.mat
+    Assets/Art/Particle/Building/Texture/Common/shanguang_00231_t.png
+    Assets/Art/Particle/Building/Materials/Common/glow_003387.mat
+    Assets/Art/Particle/Building/Texture/Common/glow_003387_t.png
+    Assets/Art/Particle/Building/Materials/Common/shanguang_00232.mat
+    Assets/Art/Particle/Building/Texture/Common/shanguang_00232_t.png
+    Assets/Art/Particle/Building/Models/c_tower_hanbingta_blue_operation_001.FBX
+    Assets/Art/Particle/Character/Materials/Common/xulie_shitou02_2x2.mat
+    Assets/Art/Particle/Character/Texture/Common/xulie_shitou02_2x2_s.png
+      
+人物资源
+Characters_AB_depend_asset.bundle(无需配表)：
+    Assets/Art/Character/cikezhiying/Model/cikezhiying.FBX
+    Assets/Art/Character/cikezhiying/Texture/cikezhiying_d.png
+    Assets/Art/Character/cikezhiying/Model/cikezhiying_lod.FBX
+    Assets/Art/Character/daerfen/Model/daerfen.FBX
+    Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Normal-BumpSpec.shader
+    Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Normal-Glossy.shader
+    Assets/Art/Character/daerfen/Texture/daerfen_d.png
+    Assets/Art/Character/daerfen/Model/daerfen_lod.FBX
+    Assets/Art/Character/heifanvwu/Model/heifanvwu.FBX
+    Assets/Art/Character/heifanvwu/Texture/heifanvwu_d.png
+    Assets/Art/Character/heifanvwu/Model/heifanvwu_lod.FBX
+    Assets/Art/Character/hekaruina/Model/hekaruina.FBX
+    Assets/Art/Character/hekaruina/Model/hekaruina_lod.FBX
+    Assets/Art/Character/hekaruina/Texture/hekaruina_d.png
+    Assets/Art/Character/kaien/Model/kaien.FBX
+    Assets/Art/Character/kaien/Model/kaien_lod.FBX
+    Assets/Art/Character/kuangbaozhanshi/Model/kuangbaozhanshi.FBX
+    Assets/Art/Character/kuangbaozhanshi/Model/kuangbaozhanshi_lod.FBX
+    Assets/Art/Character/kulouqishi/Model/kulouqishi.FBX
+    Assets/Art/Character/kulouqishi/Animation/kulouqishi@out.FBX
+    Assets/Art/Character/kulouqishi/Texture/kulouqishi_d.png
+    Assets/Art/Character/kulouqishi/Model/kulouqishi_lod.FBX
+    Assets/Art/Character/shitouyuansu/Model/shitouyuansu.FBX
+    Assets/Art/Character/shitouyuansu/Texture/shitouyuansu_d.png
+    Assets/Art/Character/shitouyuansu/Model/shitouyuansu_lod.FBX
+    Assets/Art/Character/zhaohuanshi/Model/zhaohuanshi.FBX
+    Assets/Art/Character/zhaohuanshi/Texture/zhaohuanshi_d.png
+    Assets/Art/Character/zhaohuanshi/Model/zhaohuanshi_lod.FBX
+Characters_AB_cikezhiying.bundle:
+    Assets/Art/Character/cikezhiying/Prefabs/cikezhiying.prefab
+Characters_AB_cikezhiying_lod.bundle:
+    Assets/Art/Character/cikezhiying/Prefabs/cikezhiying_lod.prefab
+Characters_AB_daerfen.bundle:
+    Assets/Art/Character/daerfen/Prefabs/daerfen.prefab
+Characters_AB_daerfen_lod.bundle:
+    Assets/Art/Character/daerfen/Prefabs/daerfen_lod.prefab
+Characters_AB_heifanvwu.bundle:
+    Assets/Art/Character/heifanvwu/Prefabs/heifanvwu.prefab
+Characters_AB_heifanvwu_lod.bundle:
+    Assets/Art/Character/heifanvwu/Prefabs/heifanvwu_lod.prefab
+Characters_AB_hekaruina.bundle:
+    Assets/Art/Character/hekaruina/Prefabs/hekaruina.prefab
+    Assets/Art/Character/hekaruina/Sounds/zhanshi1_feiluo_hekaruina.mp3
+    Assets/Art/Character/hekaruina/Sounds/zhanshi2_liangcihuidao_hekaruina.mp3
+    Assets/Art/Character/hekaruina/Sounds/zhanshi3_shuangren_hekaruina.mp3
+Characters_AB_hekaruina_lod.bundle:
+    Assets/Art/Character/hekaruina/Prefabs/hekaruina_lod.prefab
+    Assets/Art/Character/hekaruina/Sounds/putonggongji_hekaruina_lod.mp3
+    Assets/Art/Character/hekaruina/Sounds/yueguangchongci_hekaruina_lod.mp3
+    Assets/Art/Character/hekaruina/Sounds/yuexingdaji_hekaruina_lod.mp3
+Characters_AB_kaien.bundle:
+    Assets/Art/Character/kaien/Prefabs/kaien.prefab
+Characters_AB_kaien_lod.bundle:
+    Assets/Art/Character/kaien/Prefabs/kaien_lod.prefab
+Characters_AB_kuangbaozhanshi.bundle:
+    Assets/Art/Character/kuangbaozhanshi/Prefabs/kuangbaozhanshi.prefab
+Characters_AB_kuangbaozhanshi_lod.bundle:
+    Assets/Art/Character/kuangbaozhanshi/Prefabs/kuangbaozhanshi_lod.prefab
+Characters_AB_kulouqishi.bundle:
+    Assets/Art/Character/kulouqishi/Prefabs/kulouqishi.prefab
+    Assets/Art/Character/kulouqishi/Sounds/zhanshi1_huidong_kulouqishi.mp3
+    Assets/Art/Character/kulouqishi/Sounds/zhanshi2_huidun_kulouqishi.mp3
+    Assets/Art/Character/kulouqishi/Sounds/zhanshi3_qiaodunpai_kulouqishi.mp3
+    Assets/Art/Character/kulouqishi/Sounds/zhanshi4_tadi_kulouqishi.mp3
+Characters_AB_kulouqishi_lod.bundle:
+    Assets/Art/Character/kulouqishi/Prefabs/kulouqishi_lod.prefab
+    Assets/Art/Character/kulouqishi/Sounds/beishuiyizhan_kulouqishi_lod.mp3
+    Assets/Art/Character/kulouqishi/Sounds/putonggongji1_kulouqishi_lod.mp3
+    Assets/Art/Character/kulouqishi/Sounds/putonggongji2_kulouqishi_lod.mp3
+    Assets/Art/Character/kulouqishi/Sounds/putonggongji3_kulouqishi_lod.mp3
+    Assets/Art/Character/kulouqishi/Sounds/qianrenzhizhan_kulouqishi_lod.mp3
+Characters_AB_shitouyuansu.bundle:
+    Assets/Art/Character/shitouyuansu/Prefabs/shitouyuansu.prefab
+Characters_AB_shitouyuansu_lod.bundle:
+    Assets/Art/Character/shitouyuansu/Prefabs/shitouyuansu_lod.prefab
+Characters_AB_zhaohuanshi.bundle:
+    Assets/Art/Character/zhaohuanshi/Prefabs/zhaohuanshi.prefab
+Characters_AB_zhaohuanshi_lod.bundle:
+    Assets/Art/Character/zhaohuanshi/Prefabs/zhaohuanshi_lod.prefab
+      
+建筑资源
+Buildings_AB_depend_asset.bundle(无需配表)：
+    Assets/Art/Building/Lab/Model/Lab_blue.FBX
+    Assets/Art/Map/2V2/Materials/Smap03/Battle2v2_01.mat
+    Assets/Art/Map/2V2/Texture/Smap03/Battle2v2_01.png
+    Assets/Art/Particle/Common/Materials/glow_001281.mat
+    Assets/Art/Building/Lab/Model/Lab_red.FBX
+    Assets/Art/Building/NPCTower/Model/Tower_hanbingta_yellow.FBX
+    Assets/Art/Building/Tower/Model/Pve/Avatar_Blue_Tower_01.fbx
+    Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Mobile/Mobile-Bumped.shader
+    Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Mobile/Mobile-VertexLit.shader
+    Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Mobile/Mobile-Diffuse.shader
+    Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Illumin-Diffuse.shader
+    Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/Illumin-VertexLit.shader
+    Assets/Art/Building/Tower/Model/Pve/DeployBuildingArea.obj
+    Assets/Art/Map/PVE/DeployArea/DeploymentAreas/Drop_Grid.png
+    Assets/Art/Building/Tower/Textures/Pve/Blue_Tower_Col.png
+    Assets/Art/Building/Tower/Materials/buildTowerTemp.mat
+    Assets/Art/Building/Tower/Textures/Pve/Dust.png
+    Assets/Art/Building/Tower/Materials/Pve/Blue_Tower_Effects.mat
+    Assets/Art/Building/Tower/Textures/Pve/Power_Up_Lightning_Tex.png
+    Assets/Art/Building/Tower/Textures/Pve/Power_Up_Pod_Shatter.png
+    Assets/Art/Building/Tower/Materials/Pve/Explosion.mat
+    Assets/Art/Building/Tower/Textures/Pve/Explosion.png
+    Assets/Art/Building/Tower/Materials/Pve/Sparks.mat
+    Assets/Art/Building/Tower/Materials/Pve/Tower_Dust.mat
+    Assets/Art/Building/Tower/Model/Pve/Avatar_Red_Tower_01.fbx
+    Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/AlphaTest-Diffuse.shader
+    Assets/Art/Shaders/Common/Ember_builtin_shaders-5.6.2p4/DefaultResourcesExtra/AlphaTest-VertexLit.shader
+    Assets/Art/Building/Tower/Model/Tower_blue.FBX
+    Assets/Art/Map/2V2/Materials/Smap03/Battle2v2_02.mat
+    Assets/Art/Map/2V2/Texture/Smap03/Battle2v2_02.png
+    Assets/Art/Particle/Building/Materials/Common/path_00505.mat
+    Assets/Art/Particle/Building/Texture/Common/path_00505_t.png
+    Assets/Art/Building/Tower/Model/Tower_red.FBX
+Buildings_AB_Lab_blue.bundle:
+    Assets/Art/Building/Lab/Prefabs/Lab_blue.prefab
+Buildings_AB_Lab_red.bundle:
+    Assets/Art/Building/Lab/Prefabs/Lab_red.prefab
+Buildings_AB_Tower_hanbingta_yellow.bundle:
+    Assets/Art/Building/NPCTower/Prefabs/Tower_hanbingta_yellow.prefab
+Buildings_AB_building_tower_t1_team1.bundle:
+    Assets/Art/Building/Tower/Prefabs/building_tower_t1_team1.prefab
+Buildings_AB_building_tower_t1_team2.bundle:
+    Assets/Art/Building/Tower/Prefabs/building_tower_t1_team2.prefab
+Buildings_AB_Tower_hanbingta_blue.bundle:
+    Assets/Art/Building/Tower/Prefabs/Tower_hanbingta_blue.prefab
+Buildings_AB_Tower_hanbingta_red.bundle:
+    Assets/Art/Building/Tower/Prefabs/Tower_hanbingta_red.prefab
+      
+NPC资源
+NPC_AB_depend_asset.bundle(无需配表)：
+    Assets/Art/Npc/yeguai01/Model/yeguai01.FBX
+    Assets/Art/Npc/yeguai03/Model/yeguai03.FBX
+    Assets/Art/Npc/zhongjiandiaoxiang/Model/zhongjiandiaoxiang.FBX
+NPC_AB_yeguai01.bundle:
+    Assets/Art/Npc/yeguai01/Prefabs/yeguai01.prefab
+NPC_AB_yeguai03.bundle:
+    Assets/Art/Npc/yeguai03/Prefabs/yeguai03.prefab
+NPC_AB_zhongjiandiaoxiang.bundle:
+    Assets/Art/Npc/zhongjiandiaoxiang/Prefabs/zhongjiandiaoxiang.prefab
+      
+人物特效资源
+Particle_Character_AB_depend_asset.bundle(无需配表)：
+    Assets/Art/Particle/Character/Materials/Common/shanguang_00254.mat
+    Assets/Art/Particle/Character/Texture/Common/shanguang_00254_w.png
+    Assets/Art/Particle/Character/Materials/Unique/knife_136.mat
+    Assets/Art/Particle/Character/Texture/Common/knife_136_w.png
+    Assets/Art/Particle/Character/Materials/Common/path_00544.mat
+    Assets/Art/Particle/Character/Texture/Common/path_00544_w.png
+    Assets/Art/Particle/Character/Models/FX_daerfen_pian.FBX
+    Assets/Art/Particle/Character/Models/FX_daerfen_zhao.FBX
+    Assets/Art/Particle/Character/Texture/Common/xilie_glow08709_6x6_s.tga
+    Assets/Art/Particle/Character/Materials/Common/yuanhuanguang_00064.mat
+    Assets/Art/Particle/Character/Texture/Common/yuanhuanguang_00064_s.tga
+    Assets/Art/Particle/Character/Materials/Common/yanhuo_00162.mat
+    Assets/Art/Particle/Character/Texture/Common/yanhuo_00162_s.png
+    Assets/Art/Particle/Character/Materials/Common/glow_001281.mat
+    Assets/Art/Particle/Character/Texture/Common/glow_001281_w.png
+    Assets/Art/Particle/Character/Models/FX_daerfen_paodan.FBX
+    Assets/Art/Particle/Character/Materials/Unique/Daerfen_fz08.mat
+    Assets/Art/Particle/Character/Texture/Unique/Daerfen_fz08_w.png
+    Assets/Art/Particle/Character/Materials/Common/path_00488.mat
+    Assets/Art/Particle/Character/Texture/Common/path_00488_w.png
+    Assets/Art/Shaders/Common/Battle/Character/add_normal.shader
+    Assets/Art/Particle/Character/Materials/Unique/yanhuo_00321.mat
+    Assets/Art/Particle/Character/Texture/Unique/yanhuo_00321_s.png
+    Assets/Art/Particle/Character/Materials/Common/xulie_wuti004_2x4.mat
+    Assets/Art/Particle/Character/Texture/Common/xulie_wuti004_2x4_s.png
+    Assets/Art/Particle/Character/Materials/Common/shanguang_00112.mat
+    Assets/Art/Particle/Character/Texture/Common/shanguang_00112_w.png
+    Assets/Art/Particle/Character/Models/heifanvwu_lod_Magictrap_mesh003.FBX
+    Assets/Art/Particle/Character/Models/heifanvwu_lod_Magictrap_mesh001.FBX
+    Assets/Art/Particle/Character/Texture/Unique/wenli_00519_w.png
+    Assets/Art/Particle/Character/Texture/Unique/wenli_00517_s.png
+    Assets/Art/Particle/Character/Texture/Unique/path_00523_s.tga
+    Assets/Art/Particle/Building/Materials/Unique/path_00382.mat
+    Assets/Art/Particle/Building/Texture/Unique/path_00382_w.tga
+    Assets/Art/Particle/Character/Materials/Unique/GF_341.mat
+    Assets/Art/Particle/Character/Texture/Unique/knife_130_s.tga
+    Assets/Art/Particle/Character/Texture/Unique/knife_137_w.png
+    Assets/Art/Particle/Character/Models/hekaruina_show_mesh004.FBX
+    Assets/Art/Particle/Character/Models/hekaruina_show_mesh002.FBX
+    Assets/Art/Particle/Character/Materials/Unique/knife_130_hekaruina_show.mat
+    Assets/Art/Particle/Character/Materials/Unique/xulie_huaban014x4.mat
+    Assets/Art/Particle/Character/Texture/Unique/xulie_huaban014x4_w.png
+    Assets/Art/Particle/Character/Materials/Unique/knife_137.mat
+    Assets/Art/Particle/Character/Materials/Unique/path_00523_hekaruina_show.mat
+    Assets/Art/Particle/Character/Materials/Common/lizi_00192.mat
+    Assets/Art/Particle/Character/Texture/Common/lizi_00192_s.tga
+    Assets/Art/Character/kaien/Materials/kaien_lod.mat
+    Assets/Art/Particle/Character/Models/clutches001.FBX
+    Assets/Art/Particle/Character/Models/r_arrow01.FBX
+    Assets/Art/Particle/Character/Models/Plane_mesh01.FBX
+    Assets/Art/Particle/Character/Materials/Unique/path_00116_01.mat
+    Assets/Art/Particle/Character/Texture/Unique/path_00116_01_t.png
+    Assets/Art/Particle/Character/Models/kaien_lod_revenge_5.FBX
+    Assets/Art/Particle/Character/Models/kaien_show01_2.FBX
+    Assets/Art/Particle/Character/Models/kaien_show01_1.FBX
+    Assets/Art/Particle/Character/Materials/Common/xilie_glow086_4x1_01_Add.mat
+    Assets/Art/Particle/Character/Texture/Common/xilie_glow086_4x1_01_s.tga
+    Assets/Art/Particle/Character/Texture/Materials/path_00062_P_kaien04.mat
+    Assets/Art/Particle/Character/Texture/path_00062.png
+    Assets/Art/Particle/Character/Materials/Common/glow_003377.mat
+    Assets/Art/Particle/Character/Texture/Common/glow_003377_t.png
+    Assets/Art/Particle/Character/Materials/Unique/shanguang_00240.mat
+    Assets/Art/Particle/Character/Texture/Unique/shanguang_00240_w.png
+    Assets/Art/Particle/Common/Materials/knife_90.mat
+    Assets/Art/Particle/Common/Texture/knife_90_t.tga
+    Assets/Art/Particle/Character/Models/c_knife01_2.FBX
+    Assets/Art/Particle/Character/Models/c_knife01_1.FBX
+    Assets/Art/Particle/Common/Materials/shanguang_00018.mat
+    Assets/Art/Particle/Common/Texture/shanguang_00018_t.png
+    Assets/Art/Particle/Common/Materials/shanguang_00161.mat
+    Assets/Art/Particle/Common/Texture/shanguang_00161_s.tga
+    Assets/Art/Particle/Character/Materials/Unique/shanguang_00249.mat
+    Assets/Art/Particle/Character/Texture/Unique/shanguang_00249_w.png
+    Assets/Art/Particle/Character/Models/kulouqishi_knife_001.FBX
+    Assets/Art/Particle/Character/Texture/Unique/knife_129_w.png
+    Assets/Art/Particle/Character/Materials/Unique/glow_00163_A.mat
+    Assets/Art/Particle/Character/Texture/Unique/glow_00163_A_s.tga
+    Assets/Art/Particle/Common/Materials/shanguang_00155.mat
+    Assets/Art/Particle/Common/Texture/shanguang_00155_t.png
+    Assets/Art/Particle/Character/Materials/Unique/Distortion_zhaohuanshi.mat
+    Assets/Art/Particle/Character/Materials/Common/shanguang_00090.mat
+    Assets/Art/Particle/Character/Texture/Common/shanguang_00090_t.png
+    Assets/Art/Particle/Character/Materials/Common/shanguang_00208.mat
+    Assets/Art/Particle/Character/Texture/Common/shanguang_00208_s.tga
+    Assets/Art/Particle/Character/Materials/Common/glow_00139.mat
+    Assets/Art/Particle/Character/Texture/Common/glow_00139_t.png
+Particle_Character_AB_cikezhiyingParticle.bundle:
+    Assets/Art/Particle/Character/Prefabs/cikezhiyingParticle/cikezhiying_show.prefab
+Particle_Character_AB_cikezhiying_lodParticle.bundle:
+    Assets/Art/Particle/Character/Prefabs/cikezhiying_lodParticle/cikezhiying_lod_deathtrap_1.prefab
+    Assets/Art/Particle/Character/Prefabs/cikezhiying_lodParticle/cikezhiying_lod_deathtrap_2.prefab
+    Assets/Art/Particle/Character/Prefabs/cikezhiying_lodParticle/cikezhiying_lod_invisible.prefab
+    Assets/Art/Particle/Character/Prefabs/cikezhiying_lodParticle/cikezhiying_lod_knife.prefab
+Particle_Character_AB_daerfenParticle.bundle:
+    Assets/Art/Particle/Character/Prefabs/daerfenParticle/daerfen_show.prefab
+Particle_Character_AB_daerfen_lodParticle.bundle:
+    Assets/Art/Particle/Character/Prefabs/daerfen_lodParticle/daerfen_lod_attack03_gethit.prefab
+    Assets/Art/Particle/Character/Prefabs/daerfen_lodParticle/daerfen_lod_attack03_shot.prefab
+    Assets/Art/Particle/Character/Prefabs/daerfen_lodParticle/daerfen_lod_attack03_zidan.prefab
+    Assets/Art/Particle/Character/Prefabs/daerfen_lodParticle/daerfen_lod_attack_gethit.prefab
+    Assets/Art/Particle/Character/Prefabs/daerfen_lodParticle/daerfen_lod_attack_shot.prefab
+    Assets/Art/Particle/Character/Prefabs/daerfen_lodParticle/daerfen_lod_attack_zidan.prefab
+    Assets/Art/Particle/Character/Prefabs/daerfen_lodParticle/daerfen_lod_buff.prefab
+Particle_Character_AB_heifanvwu.bundle:
+    Assets/Art/Particle/Character/Prefabs/heifanvwu/heifanvwu_show.prefab
+    Assets/Art/Particle/Character/Prefabs/heifanvwu/heifanvwu_show_weapon_1.prefab
+    Assets/Art/Particle/Character/Prefabs/heifanvwu/heifanvwu_show_weapon_2.prefab
+Particle_Character_AB_heifanvwu_lod.bundle:
+    Assets/Art/Particle/Character/Prefabs/heifanvwu_lod/heifanvwu_lod_attack.prefab
+    Assets/Art/Particle/Character/Prefabs/heifanvwu_lod/heifanvwu_lod_attack_gethit.prefab
+    Assets/Art/Particle/Character/Prefabs/heifanvwu_lod/heifanvwu_lod_explode_1.prefab
+    Assets/Art/Particle/Character/Prefabs/heifanvwu_lod/heifanvwu_lod_explode_2.prefab
+    Assets/Art/Particle/Character/Prefabs/heifanvwu_lod/heifanvwu_lod_explode_3.prefab
+    Assets/Art/Particle/Character/Prefabs/heifanvwu_lod/heifanvwu_lod_Magictrap_1.prefab
+    Assets/Art/Particle/Character/Prefabs/heifanvwu_lod/heifanvwu_lod_Magictrap_2.prefab
+    Assets/Art/Particle/Character/Prefabs/heifanvwu_lod/heifanvwu_lod_Magictrap_3.prefab
+    Assets/Art/Particle/Character/Prefabs/heifanvwu_lod/heifanvwu_lod_weapon_trail.prefab
+Particle_Character_AB_hekaruinaParticle.bundle:
+    Assets/Art/Particle/Character/Prefabs/hekaruinaParticle/hekaruina_show.prefab
+    Assets/Art/Particle/Character/Prefabs/hekaruinaParticle/weapon_glow_001.prefab
+    Assets/Art/Particle/Character/Prefabs/hekaruinaParticle/weapon_glow_002.prefab
+Particle_Character_AB_hekaruina_lodParticle.bundle:
+    Assets/Art/Particle/Character/Prefabs/hekaruina_lodParticle/hekaruina_lod_attack02.prefab
+    Assets/Art/Particle/Character/Prefabs/hekaruina_lodParticle/hekaruina_lod_knife.prefab
+    Assets/Art/Particle/Character/Prefabs/hekaruina_lodParticle/hekaruina_lod_moonblow.prefab
+    Assets/Art/Particle/Character/Prefabs/hekaruina_lodParticle/hekaruina_lod_sprint_begin_1.prefab
+    Assets/Art/Particle/Character/Prefabs/hekaruina_lodParticle/hekaruina_lod_sprint_begin_2.prefab
+    Assets/Art/Particle/Character/Prefabs/hekaruina_lodParticle/hekaruina_lod_sprint_begin_3.prefab
+Particle_Character_AB_kaienParticle.bundle:
+    Assets/Art/Particle/Character/Prefabs/kaienParticle/kaien_arrowlight01.prefab
+    Assets/Art/Particle/Character/Prefabs/kaienParticle/kaien_arrowlight02.prefab
+    Assets/Art/Particle/Character/Prefabs/kaienParticle/kaien_greenfire.prefab
+    Assets/Art/Particle/Character/Prefabs/kaienParticle/kaien_show.prefab
+Particle_Character_AB_kaien_lodParticle.bundle:
+    Assets/Art/Particle/Character/Prefabs/kaien_lodParticle/kaien_lod_attack_1.prefab
+    Assets/Art/Particle/Character/Prefabs/kaien_lodParticle/kaien_lod_attack_2.prefab
+    Assets/Art/Particle/Character/Prefabs/kaien_lodParticle/kaien_lod_handtrap_1.prefab
+    Assets/Art/Particle/Character/Prefabs/kaien_lodParticle/kaien_lod_handtrap_2.prefab
+    Assets/Art/Particle/Character/Prefabs/kaien_lodParticle/kaien_lod_handtrap_3.prefab
+    Assets/Art/Particle/Character/Prefabs/kaien_lodParticle/kaien_lod_handtrap_4.prefab
+    Assets/Art/Particle/Character/Prefabs/kaien_lodParticle/kaien_lod_revenge_1.prefab
+    Assets/Art/Particle/Character/Prefabs/kaien_lodParticle/kaien_lod_revenge_2.prefab
+Particle_Character_AB_kuangbaozhanshiParticle.bundle:
+    Assets/Art/Particle/Character/Prefabs/kuangbaozhanshiParticle/fire03.prefab
+    Assets/Art/Particle/Character/Prefabs/kuangbaozhanshiParticle/kuangbaozhanshi_show.prefab
+Particle_Character_AB_kuangbaozhanshi_lodParticle.bundle:
+    Assets/Art/Particle/Character/Prefabs/kuangbaozhanshi_lodParticle/kuangbaozhanshi_lod_attack.prefab
+    Assets/Art/Particle/Character/Prefabs/kuangbaozhanshi_lodParticle/kuangbaozhanshi_lod_behead.prefab
+    Assets/Art/Particle/Character/Prefabs/kuangbaozhanshi_lodParticle/kuangbaozhanshi_lod_crit.prefab
+Particle_Character_AB_kulouqishiParticle.bundle:
+    Assets/Art/Particle/Character/Prefabs/kulouqishiParticle/kulouqishi_show.prefab
+    Assets/Art/Particle/Character/Prefabs/kulouqishiParticle/kulouqishi_show_weapon_1.prefab
+    Assets/Art/Particle/Character/Prefabs/kulouqishiParticle/kulouqishi_show_weapon_2.prefab
+Particle_Character_AB_kulouqishi_lodParticle.bundle:
+    Assets/Art/Particle/Character/Prefabs/kulouqishi_lodParticle/kulouqishi_lod_defense.prefab
+    Assets/Art/Particle/Character/Prefabs/kulouqishi_lodParticle/kulouqishi_lod_knife.prefab
+    Assets/Art/Particle/Character/Prefabs/kulouqishi_lodParticle/kulouqishi_lod_sneer.prefab
+Particle_Character_AB_shitouyuansu_lodParticle.bundle:
+    Assets/Art/Particle/Character/Prefabs/shitouyuansu_lodParticle/shitouyuansu_lod_attack.prefab
+    Assets/Art/Particle/Character/Prefabs/shitouyuansu_lodParticle/shitouyuansu_lod_death.prefab
+Particle_Character_AB_tongyongParticle.bundle:
+    Assets/Art/Particle/Character/Prefabs/tongyongParticle/tongyong_damage01.prefab
+    Assets/Art/Particle/Character/Prefabs/tongyongParticle/tongyong_gethit01.prefab
+    Assets/Art/Particle/Character/Prefabs/tongyongParticle/tongyong_gethit02.prefab
+Particle_Character_AB_yeguai01Particle.bundle:
+    Assets/Art/Particle/Character/Prefabs/yeguai01Particle/yeguai01_attack01.prefab
+    Assets/Art/Particle/Character/Prefabs/yeguai01Particle/yeguai01_attack01_gethit.prefab
+Particle_Character_AB_yeguai03Particle.bundle:
+    Assets/Art/Particle/Character/Prefabs/yeguai03Particle/yeguai03_attack01.prefab
+Particle_Character_AB_zhaohuanshiParticle.bundle:
+    Assets/Art/Particle/Character/Prefabs/zhaohuanshiParticle/zhaohuanshi_show.prefab
+    Assets/Art/Particle/Character/Prefabs/zhaohuanshiParticle/zhaohuanshi_show_hand.prefab
+    Assets/Art/Particle/Character/Prefabs/zhaohuanshiParticle/zhaohuanshi_show_weapon.prefab
+Particle_Character_AB_zhaohuanshi_lodParticle.bundle:
+    Assets/Art/Particle/Character/Prefabs/zhaohuanshi_lodParticle/zhaohuanshi_lod_attack_1.prefab
+    Assets/Art/Particle/Character/Prefabs/zhaohuanshi_lodParticle/zhaohuanshi_lod_attack_2.prefab
+    Assets/Art/Particle/Character/Prefabs/zhaohuanshi_lodParticle/zhaohuanshi_lod_explode.prefab
+    Assets/Art/Particle/Character/Prefabs/zhaohuanshi_lodParticle/zhaohuanshi_lod_summon.prefab
+      
+地图特效资源
+Particle_Map_AB_depend_asset.bundle(无需配表)：
+    Assets/Art/Particle/Map/Models/Deployment_Locator/Avatar_Power_Up_Pod.fbx
+    Assets/Art/Particle/Map/Materials/Unique/xulie_shitou07_2x2.mat
+    Assets/Art/Particle/Map/Texture/Unique/xulie_shitou07_2x2_s.tga
+    Assets/Art/Particle/Map/Materials/Unique/wuti_huoqiu01.mat
+    Assets/Art/Particle/Map/Texture/Unique/wuti_huoqiu01_s.tga
+    Assets/Art/Particle/Common/Materials/xulie_fire068_4x4.mat
+    Assets/Art/Particle/Common/Texture/xulie_fire068_4x4_s.tga
+    Assets/Art/Particle/Map/Models/Deployment_Arrow_Mesh.obj
+    Assets/Art/Particle/Map/Texture/SelectionCircle/Circle.PNG
+Particle_Map_AB_a.bundle:
+    Assets/Art/Particle/Map/Prefabs/deployment_pod_v2.prefab
+    Assets/Art/Particle/Map/Prefabs/explode01.prefab
+    Assets/Art/Particle/Map/Prefabs/explode02.prefab
+    Assets/Art/Particle/Map/Prefabs/explode03.prefab
+    Assets/Art/Particle/Map/Prefabs/fire01.prefab
+    Assets/Art/Particle/Map/Prefabs/fire02.prefab
+    Assets/Art/Particle/Map/Prefabs/fireball01.prefab
+    Assets/Art/Particle/Map/Prefabs/fireball02.prefab
+    Assets/Art/Particle/Map/Prefabs/fireball03.prefab
+    Assets/Art/Particle/Map/Prefabs/GroundPositionLocator.prefab
+    Assets/Art/Particle/Map/Prefabs/SelectionCircle.prefab
+    Assets/Art/Particle/Map/Prefabs/Target_Attack.prefab
+      
+依赖资源
+Particle_Building_AB_depend_asset.bundle(无需配表)：
+    Assets/Art/Particle/Building/Materials/Common/xulie_fire071_4x4.mat
+    Assets/Art/Particle/Building/Texture/Common/xulie_fire071_4x4_t.png
+    Assets/Art/Particle/Building/Texture/Common/path_00508_t.png
+    Assets/Art/Particle/Building/Materials/Common/lizi_00015.mat
+    Assets/Art/Particle/Building/Texture/Common/lizi_00015_w.png
+    Assets/Art/Particle/Building/Materials/Common/glow_001281.mat
+    Assets/Art/Particle/Building/Materials/Unique/path_00412.mat
+    Assets/Art/Particle/Building/Texture/Unique/path_00412_s.tga
+    Assets/Art/Particle/Building/Materials/Unique/xilie_glow08700_4x4.mat
+    Assets/Art/Particle/Building/Texture/Unique/xilie_glow08700_4x4_t.png
+    Assets/Art/Particle/Building/Texture/Common/wenli_00514_t.png
+    Assets/Art/Particle/Building/Texture/Common/wenli_00515_s.tga
+    Assets/Art/Particle/Building/Materials/Common/xulie_shitou01_4x4.mat
+    Assets/Art/Particle/Building/Texture/Common/xulie_shitou01_4x4_s.png
+    Assets/Art/Particle/Building/Materials/Unique/Distortion_base.mat
+    Assets/Art/Particle/Character/Models/backcity01_mesh01.FBX
+    Assets/Art/Particle/Building/Materials/Common/path_00528.mat
+    Assets/Art/Particle/Building/Texture/Common/path_00528_s.tga
+    Assets/Art/Particle/Building/Texture/Unique/path_00511_s.tga
+    Assets/Art/Particle/Building/Models/c_Base_001.FBX
+    Assets/Art/Particle/Building/Materials/Common/glow_003390.mat
+    Assets/Art/Particle/Building/Texture/Common/glow_003390_t.png
+    Assets/Art/Particle/Character/Texture/Common/wenli_00319_t.png
+    Assets/Art/Particle/Building/Materials/Unique/shanguang_00219.mat
+    Assets/Art/Particle/Building/Texture/Unique/shanguang_00219_t.png
+    Assets/Art/Particle/Building/Materials/Unique/shanguang_00178.mat
+    Assets/Art/Particle/Building/Texture/Unique/shanguang_00178_t.png
+    Assets/Art/Particle/Building/Materials/Unique/shanguang_00221.mat
+    Assets/Art/Particle/Building/Texture/Unique/shanguang_00221_t.png
+    Assets/Art/Particle/Building/Materials/Common/path_00507.mat
+    Assets/Art/Particle/Building/Texture/Common/path_00507_t.png
+    Assets/Art/Particle/Building/Materials/Unique/shanguang_00175.mat
+    Assets/Art/Particle/Building/Texture/Unique/shanguang_00175_t.png
+    Assets/Art/Particle/Building/Materials/Unique/xulie_shandian007_1x4.mat
+    Assets/Art/Particle/Building/Texture/Unique/xulie_shandian007_1x4_s.png
+    Assets/Art/Particle/Building/Materials/Unique/xulie_fire056_4x4.mat
+    Assets/Art/Particle/Building/Texture/Unique/xulie_fire056_4x4_w.tga
+    Assets/Art/Particle/Building/Materials/Unique/xulie_fire075_4x4.mat
+    Assets/Art/Particle/Building/Texture/Unique/xulie_fire075_4x4_w.tga
+Particle_Building_AB_a.bundle:
+    Assets/Art/Particle/Building/Prefabs/bluebase_bullet.prefab
+    Assets/Art/Particle/Building/Prefabs/bluebase_death.prefab
+    Assets/Art/Particle/Building/Prefabs/bluebase_gethit.prefab
+    Assets/Art/Particle/Building/Prefabs/bluebase_operation_1.prefab
+    Assets/Art/Particle/Building/Prefabs/bluebase_operation_2.prefab
+    Assets/Art/Particle/Building/Prefabs/Building_mine.prefab
+    Assets/Art/Particle/Building/Prefabs/Campfire.prefab
+    Assets/Art/Particle/Building/Prefabs/Deadtree.prefab
+    Assets/Art/Particle/Building/Prefabs/Grass.prefab
+    Assets/Art/Particle/Building/Prefabs/lab_blue_building.prefab
+    Assets/Art/Particle/Building/Prefabs/lab_blue_death.prefab
+    Assets/Art/Particle/Building/Prefabs/lab_blue_finish.prefab
+    Assets/Art/Particle/Building/Prefabs/lab_red_building.prefab
+    Assets/Art/Particle/Building/Prefabs/lab_red_death.prefab
+    Assets/Art/Particle/Building/Prefabs/lab_red_finish.prefab
+    Assets/Art/Particle/Building/Prefabs/Map.prefab
+    Assets/Art/Particle/Building/Prefabs/redbase_bullet.prefab
+    Assets/Art/Particle/Building/Prefabs/redbase_death.prefab
+    Assets/Art/Particle/Building/Prefabs/redbase_gethit.prefab
+    Assets/Art/Particle/Building/Prefabs/redbase_operation_1.prefab
+    Assets/Art/Particle/Building/Prefabs/redbase_operation_2.prefab
+    Assets/Art/Particle/Building/Prefabs/SummonHeroEffect.prefab
+    Assets/Art/Particle/Building/Prefabs/tower_hanbingta_blue_building.prefab
+    Assets/Art/Particle/Building/Prefabs/tower_hanbingta_blue_bullet.prefab
+    Assets/Art/Particle/Building/Prefabs/tower_hanbingta_blue_death.prefab
+    Assets/Art/Particle/Building/Prefabs/tower_hanbingta_blue_finish.prefab
+    Assets/Art/Particle/Building/Prefabs/tower_hanbingta_blue_gethit.prefab
+    Assets/Art/Particle/Building/Prefabs/tower_hanbingta_blue_operation_1.prefab
+    Assets/Art/Particle/Building/Prefabs/tower_hanbingta_red_building.prefab
+    Assets/Art/Particle/Building/Prefabs/tower_hanbingta_red_bullet.prefab
+    Assets/Art/Particle/Building/Prefabs/tower_hanbingta_red_death.prefab
+    Assets/Art/Particle/Building/Prefabs/tower_hanbingta_red_finish.prefab
+    Assets/Art/Particle/Building/Prefabs/tower_hanbingta_red_gethit.prefab
+    Assets/Art/Particle/Building/Prefabs/tower_hanbingta_red_operation_1.prefab
+    Assets/Art/Particle/Building/Prefabs/xulie_shandian007_1x4_Blue_Bone002.prefab
+    Assets/Art/Particle/Building/Prefabs/xulie_shandian007_1x4_Blue_Bone003.prefab
+    Assets/Art/Particle/Building/Prefabs/xulie_shandian007_1x4_Blue_Bone004.prefab
+    Assets/Art/Particle/Building/Prefabs/xulie_shandian007_1x4_Red_Bone002.prefab
+    Assets/Art/Particle/Building/Prefabs/xulie_shandian007_1x4_Red_Bone003.prefab
+    Assets/Art/Particle/Building/Prefabs/xulie_shandian007_1x4_Red_Bone004.prefab
+    Assets/Art/Particle/Building/Prefabs/zhongjiandiaoxiang_dead.prefab
+    Assets/Art/Particle/Building/Prefabs/zhongjiandiaoxiang_out.prefab
+      
+UI加载图的资源
+UI_Load_AB_Avatar_icon.bundle:
+    Assets/Art/UI/UILoadPrefabs/Avatar_icon/EmberAvatar_10.prefab
+    Assets/Art/UI/UILoadPrefabs/Avatar_icon/EmberAvatar_20.prefab
+    Assets/Art/UI/UILoadPrefabs/Avatar_icon/EmberAvatar_21.prefab
+    Assets/Art/UI/UILoadPrefabs/Avatar_icon/EmberAvatar_24.prefab
+    Assets/Art/UI/UILoadPrefabs/Avatar_icon/EmberAvatar_38.prefab
+    Assets/Art/UI/UILoadPrefabs/Avatar_icon/EmberAvatar_39.prefab
+    Assets/Art/UI/UILoadPrefabs/Avatar_icon/EmberAvatar_40.prefab
+    Assets/Art/UI/UILoadPrefabs/Avatar_icon/EmberAvatar_41.prefab
+    Assets/Art/UI/UILoadPrefabs/Avatar_icon/EmberAvatar_42.prefab
+    Assets/Art/UI/UILoadPrefabs/Avatar_icon/EmberAvatar_6.prefab
+    Assets/Art/UI/UILoadPrefabs/Avatar_icon/EmberAvatar_7.prefab
+    Assets/Art/UI/UILoadPrefabs/Avatar_icon/EmberAvatar_9.prefab
+    Assets/Art/UI/UILoadPrefabs/Avatar_icon/SystemMailIcon.prefab
+UI_Load_AB_BulletinTexture.bundle:
+    Assets/Art/UI/UILoadPrefabs/BulletinTexture/B_T_ggimage01.prefab
+    Assets/Art/UI/UILoadPrefabs/BulletinTexture/B_T_ggimage02.prefab
+    Assets/Art/UI/UILoadPrefabs/BulletinTexture/B_T_ggssimage01.prefab
+    Assets/Art/UI/UILoadPrefabs/BulletinTexture/B_T_ggssimage02.prefab
+    Assets/Art/UI/UILoadPrefabs/BulletinTexture/B_T_ggssimage03.prefab
+UI_Load_AB_ComponentIcon.bundle:
+    Assets/Art/UI/UILoadPrefabs/ComponentIcon/rare_floic_ember-touched_beads.prefab
+    Assets/Art/UI/UILoadPrefabs/ComponentIcon/UI_T_lsicon07.prefab
+UI_Load_AB_HeroBustIcon.bundle:
+    Assets/Art/UI/UILoadPrefabs/HeroBustIcon/I_T_Cikezhiying.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroBustIcon/I_T_Heianfashi.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroBustIcon/I_T_Kuangbaozhanshi.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroBustIcon/I_T_kulouqishi.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroBustIcon/I_T_Shoumolieren.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroBustIcon/I_T_Yuezhinvshen.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroBustIcon/I_T_Zhaohuanshi.prefab
+UI_Load_AB_HeroHeadCircleIcon.bundle:
+    Assets/Art/UI/UILoadPrefabs/HeroHeadCircleIcon/I_T_RXLCike.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroHeadCircleIcon/I_T_RXLHeifanvwu.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroHeadCircleIcon/I_T_RXLHekaruina.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroHeadCircleIcon/I_T_RXLKuangbao.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroHeadCircleIcon/I_T_RXLkulou.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroHeadCircleIcon/I_T_RXLshoumo.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroHeadCircleIcon/I_T_RXLZhaoh.prefab
+UI_Load_AB_HeroHeadSquareIcon.bundle:
+    Assets/Art/UI/UILoadPrefabs/HeroHeadSquareIcon/I_T_CikeAvatar.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroHeadSquareIcon/I_T_HeifanvwuAvatar.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroHeadSquareIcon/I_T_HekaruinaAvatar.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroHeadSquareIcon/I_T_KuangbaoAvatar.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroHeadSquareIcon/I_T_KulouAvatar.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroHeadSquareIcon/I_T_ShoumoAvatar.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroHeadSquareIcon/I_T_ZhaohAvatar.prefab
+UI_Load_AB_HeroSkillIcon.bundle:
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_aidehua.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_bairenzhan.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_baoliedan.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_chaofeng.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_cikezongji.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_daerfen.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_daianna.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_diyuzhishou.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_hekaruina.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_jishugengxin.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_kaien.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_kulouqishi.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_MagicTrap.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_mofashikong.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_mofayuansu.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_molapaotai.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_saruina.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_shengsiyizhan.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_shenzhijiushu.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_shenzhizhufu.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_siwangxianjing.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_xieechouhen.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_yueguangtuci.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_yuexingdaji.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_zhaohuanshi.prefab
+    Assets/Art/UI/UILoadPrefabs/HeroSkillIcon/I_T_zhimingyiji.prefab
+UI_Load_AB_InstituteSkillIcon.bundle:
+    Assets/Art/UI/UILoadPrefabs/InstituteSkillIcon/Assault.prefab
+    Assets/Art/UI/UILoadPrefabs/InstituteSkillIcon/Barrier.prefab
+    Assets/Art/UI/UILoadPrefabs/InstituteSkillIcon/Hawkeye.prefab
+    Assets/Art/UI/UILoadPrefabs/InstituteSkillIcon/Mercy.prefab
+    Assets/Art/UI/UILoadPrefabs/InstituteSkillIcon/Void.prefab
+UI_Load_AB_ItemIcon.bundle:
+    Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_dabaoxiang.prefab
+    Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_ExpCard.prefab
+    Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_GoldCard.prefab
+    Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_jinbi.prefab
+    Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_lingshisuipian.prefab
+    Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_pifusuipian.prefab
+    Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_Speaker.prefab
+    Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_xiaobaoxiang.prefab
+    Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_yingxiongsuipian.prefab
+    Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_yujinbi.prefab
+    Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_zuanshi.prefab
+UI_Load_AB_MiniMap.bundle:
+    Assets/Art/UI/UILoadPrefabs/MiniMap/B_S_Map2V2_1V1.prefab
+    Assets/Art/UI/UILoadPrefabs/MiniMap/Circle.prefab
+    Assets/Art/UI/UILoadPrefabs/MiniMap/F_S_2v2smapf.prefab
+    Assets/Art/UI/UILoadPrefabs/MiniMap/MapPVE.prefab
+    Assets/Art/UI/UILoadPrefabs/MiniMap/UI_S_zdsmapicon01.prefab
+    Assets/Art/UI/UILoadPrefabs/MiniMap/UI_S_zdsmapicon02.prefab
+    Assets/Art/UI/UILoadPrefabs/MiniMap/UI_S_zdsmapicon03.prefab
+    Assets/Art/UI/UILoadPrefabs/MiniMap/UI_S_zdsmapicon04.prefab
+UI_Load_AB_NewbieGuideTexture.bundle:
+    Assets/Art/UI/UILoadPrefabs/NewbieGuideTexture/B_S_NewbieGuide2.prefab
+    Assets/Art/UI/UILoadPrefabs/NewbieGuideTexture/B_S_NewbieGuide3.prefab
+    Assets/Art/UI/UILoadPrefabs/NewbieGuideTexture/B_S_NewbieGuide4.prefab
+    Assets/Art/UI/UILoadPrefabs/NewbieGuideTexture/B_S_NewbieGuide5.prefab
+    Assets/Art/UI/UILoadPrefabs/NewbieGuideTexture/B_T_NewbieGuide1.prefab
+UI_Load_AB_RankIconUI.bundle:
+    Assets/Art/UI/UILoadPrefabs/RankIconUI/I_T_paihangicon01.prefab
+    Assets/Art/UI/UILoadPrefabs/RankIconUI/I_T_paihangicon02.prefab
+    Assets/Art/UI/UILoadPrefabs/RankIconUI/I_T_paihangicon03.prefab
+      
+背景音乐资源
+Sound_BGM_AB_denglujiemian.bundle:
+    Assets/Art/AudioClip/BGM/denglujiemian.mp3
+Sound_BGM_AB_MatchFinding_02_01.bundle:
+    Assets/Art/AudioClip/BGM/Match Finding_02_01.mp3
+Sound_BGM_AB_pipeijiemian.bundle:
+    Assets/Art/AudioClip/BGM/pipeijiemian.mp3
+Sound_BGM_AB_shengli.bundle:
+    Assets/Art/AudioClip/BGM/shengli.mp3
+Sound_BGM_AB_shibai.bundle:
+    Assets/Art/AudioClip/BGM/shibai.mp3
+Sound_BGM_AB_zhandoubeijing.bundle:
+    Assets/Art/AudioClip/BGM/zhandoubeijing.mp3
+Sound_BGM_AB_zhujiemian.bundle:
+    Assets/Art/AudioClip/BGM/zhujiemian.mp3
+      
+战斗里用的音效资源
+Sound_Battle_AB_a.bundle:
+    Assets/Art/AudioClip/Battle/buff.mp3
+    Assets/Art/AudioClip/Battle/chest_common_02.mp3
+    Assets/Art/AudioClip/Battle/chest_epic_02.mp3
+    Assets/Art/AudioClip/Battle/chest_mythic_02.mp3
+    Assets/Art/AudioClip/Battle/chest_rare_01.mp3
+    Assets/Art/AudioClip/Battle/common_shengli_victory.mp3
+    Assets/Art/AudioClip/Battle/common_shibai_defeat.mp3
+    Assets/Art/AudioClip/Battle/PowerUpDrop.mp3
+    Assets/Art/AudioClip/Battle/PowerUpEnd.mp3
+    Assets/Art/AudioClip/Battle/Red_Tower_Down.mp3
+    Assets/Art/AudioClip/Battle/danweishengcheng.wav
+    Assets/Art/AudioClip/Battle/Death_Female.wav
+    Assets/Art/AudioClip/Battle/Death_Male.wav
+    Assets/Art/AudioClip/Battle/Hit_1.wav
+    Assets/Art/AudioClip/Battle/Hit_2.wav
+    Assets/Art/AudioClip/Battle/Hit_3.wav
+    Assets/Art/AudioClip/Battle/Hit_4.wav
+      
+非战斗场景的音效资源
+Sound_MainMenu_AB_a.bundle:
+    Assets/Art/AudioClip/MainMenu/UI_movement_06.mp3
+      
+通用的音效资源
+Sound_Common_AB_a.bundle:
+    Assets/Art/AudioClip/Common/common_anniu.mp3
+    Assets/Art/AudioClip/Common/UI_button_01.mp3
+    Assets/Art/AudioClip/Common/UI_button_07.mp3
+    Assets/Art/AudioClip/Common/pipeichenggong.wav

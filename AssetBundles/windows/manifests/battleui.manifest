@@ -1,0 +1,90 @@
+ManifestFileVersion: 0
+CRC: 1917235701
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13fa77ad5e876ff701e0980931db9210
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e72d99d11425d95f95479a5afe51a37d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 27ef2741549445a4b85443c3e32ec524, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8ac367c26068fd64796a6f13c7c61600, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4a11763b6ccbc2459d04de67ade9363, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a0cffbc3ccf0a847afe71f200a5c204, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ab7ad70ed944cf34491f630817540040, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Characters/Units/soul_ancient.prefab
+- Assets/Resources/Prefabs/UI/BattleScreenItem/HealthBar.prefab
+- Assets/Resources/Prefabs/Characters/Units/reaver.prefab
+- Assets/Resources/Prefabs/Characters/Units/phalanx.prefab
+- Assets/Resources/Prefabs/Characters/Units/hashashin.prefab
+- Assets/Resources/Prefabs/Characters/Units/ranger.prefab
+- Assets/Resources/Prefabs/Characters/Units/master_blaster.prefab
+- Assets/Resources/Prefabs/Characters/Units/darter.prefab
+- Assets/Resources/Prefabs/Characters/Units/berserker.prefab
+- Assets/Resources/Prefabs/Characters/Units/harvester.prefab
+- Assets/Resources/Prefabs/Characters/Units/shield_guard.prefab
+- Assets/Resources/Prefabs/Characters/Units/lord_of_war.prefab
+- Assets/Resources/Prefabs/Characters/Units/sagittaria.prefab
+- Assets/Resources/Prefabs/Characters/Units/trooper.prefab
+- Assets/Resources/Prefabs/Characters/Units/puglings.prefab
+- Assets/Resources/Prefabs/Characters/Units/light_cavalry.prefab
+- Assets/Resources/Prefabs/Characters/Units/burrow_mine.prefab
+- Assets/Resources/Prefabs/UI/BattleScreenItem/FloatingHealth.prefab
+- Assets/Resources/Prefabs/Characters/Units/cantabrian.prefab
+- Assets/Resources/Prefabs/Characters/Units/heavy_cavalry.prefab
+- Assets/Resources/Prefabs/Characters/Units/prideborn.prefab
+Dependencies: []

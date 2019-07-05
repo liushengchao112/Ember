@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1033838259
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e86c1d6c88ccd10d8fd094d03d0dba4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d35f8d1a55cfb28942e7509014437f9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Particle/Character/Prefabs/kuangbaozhanshi_lodParticle/kuangbaozhanshi_lod_crit.prefab
+- Assets/Art/Particle/Character/Prefabs/kuangbaozhanshi_lodParticle/kuangbaozhanshi_lod_behead.prefab
+- Assets/Art/Particle/Character/Prefabs/kuangbaozhanshi_lodParticle/kuangbaozhanshi_lod_attack.prefab
+Dependencies:
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/common_depend_asset_ab_res.bundle
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/particle_character_ab_depend_asset.bundle

@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1108357400
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 814b828bb9fd779b935c69cad51295cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 493defdaa0e39e514683ffa1a4156754
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6173134e600eec643a51b4df210a1af8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/puglings.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/darter.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/sagittaria.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/lord_of_war.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/prideborn.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/heavy_cavalry.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/ranger.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/master_blaster.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/trooper.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/hashashin.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/phalanx.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/berserker.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/siege_tank.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/floic_doctor.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/shield_guard.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/light_cavalry.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/reaver.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/soul_ancient.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitSkillIcon/cantabrian.prefab
+Dependencies: []

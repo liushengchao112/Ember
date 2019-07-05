@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2306570796
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2387565791f91e67e6a00ac8958a994c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02e51dfc5b77658948525fbaaec04aa9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Particle/Character/Prefabs/kulouqishi_lodParticle/kulouqishi_lod_sneer.prefab
+- Assets/Art/Particle/Character/Prefabs/kulouqishi_lodParticle/kulouqishi_lod_knife.prefab
+- Assets/Art/Particle/Character/Prefabs/kulouqishi_lodParticle/kulouqishi_lod_defense.prefab
+Dependencies:
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/common_depend_asset_ab_res.bundle
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/particle_character_ab_depend_asset.bundle

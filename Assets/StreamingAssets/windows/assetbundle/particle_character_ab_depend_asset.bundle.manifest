@@ -1,0 +1,124 @@
+ManifestFileVersion: 0
+CRC: 3903667806
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b560395c399623084bca2a51bf8e2277
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a786f03288c6fcecb1eb16652903e1c8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Particle/Character/Texture/Unique/wenli_00517_s.png
+- Assets/Art/Particle/Character/Texture/Unique/knife_137_w.png
+- Assets/Art/Particle/Character/Texture/Unique/path_00523_s.tga
+- Assets/Art/Particle/Character/Models/FX_daerfen_paodan.FBX
+- Assets/Art/Particle/Character/Materials/Common/glow_001281.mat
+- Assets/Art/Particle/Character/Models/r_arrow01.FBX
+- Assets/Art/Particle/Character/Texture/Common/lizi_00192_s.tga
+- Assets/Art/Particle/Character/Texture/Unique/xulie_huaban014x4_w.png
+- Assets/Art/Particle/Character/Texture/Unique/shanguang_00240_w.png
+- Assets/Art/Particle/Character/Models/kaien_lod_revenge_5.FBX
+- Assets/Art/Particle/Character/Models/heifanvwu_lod_Magictrap_mesh001.FBX
+- Assets/Art/Particle/Character/Models/kaien_show01_2.FBX
+- Assets/Art/Particle/Character/Materials/Common/yanhuo_00162.mat
+- Assets/Art/Particle/Common/Materials/shanguang_00155.mat
+- Assets/Art/Particle/Character/Models/kaien_show01_1.FBX
+- Assets/Art/Particle/Character/Materials/Unique/path_00116_01.mat
+- Assets/Art/Particle/Character/Texture/Materials/path_00062_P_kaien04.mat
+- Assets/Art/Particle/Character/Models/kulouqishi_knife_001.FBX
+- Assets/Art/Particle/Character/Materials/Common/yuanhuanguang_00064.mat
+- Assets/Art/Particle/Character/Materials/Unique/knife_130_hekaruina_show.mat
+- Assets/Art/Particle/Character/Models/hekaruina_show_mesh004.FBX
+- Assets/Art/Particle/Character/Materials/Unique/Distortion_zhaohuanshi.mat
+- Assets/Art/Particle/Character/Texture/Common/path_00488_w.png
+- Assets/Art/Particle/Character/Materials/Common/glow_003377.mat
+- Assets/Art/Particle/Character/Texture/Common/yuanhuanguang_00064_s.tga
+- Assets/Art/Particle/Character/Materials/Common/shanguang_00254.mat
+- Assets/Art/Particle/Character/Texture/Common/xilie_glow08709_6x6_s.tga
+- Assets/Art/Particle/Character/Models/hekaruina_show_mesh002.FBX
+- Assets/Art/Particle/Building/Materials/Unique/path_00382.mat
+- Assets/Art/Particle/Character/Texture/Common/shanguang_00112_w.png
+- Assets/Art/Particle/Character/Materials/Unique/shanguang_00249.mat
+- Assets/Art/Particle/Character/Materials/Common/path_00488.mat
+- Assets/Art/Particle/Character/Materials/Unique/shanguang_00240.mat
+- Assets/Art/Particle/Character/Texture/Common/knife_136_w.png
+- Assets/Art/Particle/Character/Materials/Unique/GF_341.mat
+- Assets/Art/Particle/Character/Materials/Common/shanguang_00090.mat
+- Assets/Art/Particle/Character/Materials/Unique/Daerfen_fz08.mat
+- Assets/Art/Particle/Character/Texture/Common/glow_003377_t.png
+- Assets/Art/Particle/Character/Texture/Unique/glow_00163_A_s.tga
+- Assets/Art/Particle/Character/Texture/Unique/knife_129_w.png
+- Assets/Art/Shaders/Common/Battle/Character/add_normal.shader
+- Assets/Art/Particle/Character/Materials/Common/xilie_glow086_4x1_01_Add.mat
+- Assets/Art/Particle/Character/Materials/Common/shanguang_00208.mat
+- Assets/Art/Particle/Character/Materials/Unique/glow_00163_A.mat
+- Assets/Art/Particle/Character/Texture/Unique/path_00116_01_t.png
+- Assets/Art/Particle/Character/Materials/Unique/knife_136.mat
+- Assets/Art/Particle/Building/Texture/Unique/path_00382_w.tga
+- Assets/Art/Particle/Character/Texture/Unique/yanhuo_00321_s.png
+- Assets/Art/Particle/Character/Materials/Common/shanguang_00112.mat
+- Assets/Art/Character/kaien/Materials/kaien_lod.mat
+- Assets/Art/Particle/Common/Materials/shanguang_00018.mat
+- Assets/Art/Particle/Character/Texture/Common/shanguang_00208_s.tga
+- Assets/Art/Particle/Common/Texture/knife_90_t.tga
+- Assets/Art/Particle/Character/Materials/Common/xulie_wuti004_2x4.mat
+- Assets/Art/Particle/Common/Texture/shanguang_00155_t.png
+- Assets/Art/Particle/Character/Models/c_knife01_1.FBX
+- Assets/Art/Particle/Character/Texture/Common/shanguang_00254_w.png
+- Assets/Art/Particle/Character/Models/heifanvwu_lod_Magictrap_mesh003.FBX
+- Assets/Art/Particle/Character/Materials/Unique/path_00523_hekaruina_show.mat
+- Assets/Art/Particle/Character/Materials/Common/path_00544.mat
+- Assets/Art/Particle/Character/Texture/Common/glow_001281_w.png
+- Assets/Art/Particle/Character/Materials/Common/lizi_00192.mat
+- Assets/Art/Particle/Character/Materials/Common/glow_00139.mat
+- Assets/Art/Particle/Character/Models/FX_daerfen_pian.FBX
+- Assets/Art/Particle/Common/Materials/shanguang_00161.mat
+- Assets/Art/Particle/Character/Texture/Common/xilie_glow086_4x1_01_s.tga
+- Assets/Art/Particle/Character/Texture/path_00062.png
+- Assets/Art/Particle/Character/Models/clutches001.FBX
+- Assets/Art/Particle/Character/Texture/Unique/wenli_00519_w.png
+- Assets/Art/Particle/Character/Texture/Common/yanhuo_00162_s.png
+- Assets/Art/Particle/Character/Materials/Unique/xulie_huaban014x4.mat
+- Assets/Art/Particle/Common/Texture/shanguang_00161_s.tga
+- Assets/Art/Particle/Character/Texture/Common/glow_00139_t.png
+- Assets/Art/Particle/Character/Texture/Common/path_00544_w.png
+- Assets/Art/Particle/Character/Models/c_knife01_2.FBX
+- Assets/Art/Particle/Character/Texture/Common/xulie_wuti004_2x4_s.png
+- Assets/Art/Particle/Character/Materials/Unique/knife_137.mat
+- Assets/Art/Particle/Character/Materials/Unique/yanhuo_00321.mat
+- Assets/Art/Particle/Common/Texture/shanguang_00018_t.png
+- Assets/Art/Particle/Common/Materials/knife_90.mat
+- Assets/Art/Particle/Character/Texture/Unique/shanguang_00249_w.png
+- Assets/Art/Particle/Character/Texture/Unique/Daerfen_fz08_w.png
+- Assets/Art/Particle/Character/Models/FX_daerfen_zhao.FBX
+- Assets/Art/Particle/Character/Models/Plane_mesh01.FBX
+- Assets/Art/Particle/Character/Texture/Common/shanguang_00090_t.png
+- Assets/Art/Particle/Character/Texture/Unique/knife_130_s.tga
+Dependencies:
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/common_depend_asset_ab_res.bundle

@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2278190319
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a99bd271a21bcbd7055dab84aee638ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02e51dfc5b77658948525fbaaec04aa9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Particle/Character/Prefabs/hekaruina_lodParticle/hekaruina_lod_sprint_begin_2.prefab
+- Assets/Art/Particle/Character/Prefabs/hekaruina_lodParticle/hekaruina_lod_knife.prefab
+- Assets/Art/Particle/Character/Prefabs/hekaruina_lodParticle/hekaruina_lod_moonblow.prefab
+- Assets/Art/Particle/Character/Prefabs/hekaruina_lodParticle/hekaruina_lod_attack02.prefab
+- Assets/Art/Particle/Character/Prefabs/hekaruina_lodParticle/hekaruina_lod_sprint_begin_1.prefab
+- Assets/Art/Particle/Character/Prefabs/hekaruina_lodParticle/hekaruina_lod_sprint_begin_3.prefab
+Dependencies:
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/common_depend_asset_ab_res.bundle
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/particle_character_ab_depend_asset.bundle

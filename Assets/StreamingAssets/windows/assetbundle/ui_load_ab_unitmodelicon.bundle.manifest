@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2126102700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8cafd438ab449881db84cb0c893363e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 493defdaa0e39e514683ffa1a4156754
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6173134e600eec643a51b4df210a1af8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/phalanx.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/sagittaria.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/cantabrian.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/darter.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/berserker.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/ranger.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/burrow_mine.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/lord_of_war.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/reaver.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/heavy_cavalry.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/puglings.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/trooper.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/soul_ancient.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/master_blaster.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/harvester.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/prideborn.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/light_cavalry.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/shield_guard.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitModelIcon/hashashin.prefab
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1349016096
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b0a7246bccfb0b0e208e51f4c5c1794
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7cd000973af5914c762d9e9e02a9a3ac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Npc/yeguai01/Model/yeguai01.FBX
+- Assets/Art/Npc/yeguai03/Model/yeguai03.FBX
+- Assets/Art/Npc/zhongjiandiaoxiang/Model/zhongjiandiaoxiang.FBX
+Dependencies: []

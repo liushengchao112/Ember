@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 3539121214
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d55e53c0b641970c63e3519988d6bfb3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 920870b575e010b8f00dbebf4f58e76f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Character/kulouqishi/Sounds/zhanshi1_huidong_kulouqishi.mp3
+- Assets/Art/Character/kulouqishi/Sounds/zhanshi2_huidun_kulouqishi.mp3
+- Assets/Art/Character/kulouqishi/Sounds/zhanshi3_qiaodunpai_kulouqishi.mp3
+- Assets/Art/Character/kulouqishi/Prefabs/kulouqishi.prefab
+- Assets/Art/Character/kulouqishi/Sounds/zhanshi4_tadi_kulouqishi.mp3
+Dependencies:
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/common_depend_asset_ab_res.bundle
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/characters_ab_depend_asset.bundle
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/particle_building_ab_depend_asset.bundle

@@ -1,0 +1,87 @@
+ManifestFileVersion: 0
+CRC: 4112033151
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d83a065ca1b275aca5d617b5ee66674a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8971ce7a07283b49bd8de1fd565b0fe2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Particle/Building/Prefabs/redbase_bullet.prefab
+- Assets/Art/Particle/Building/Prefabs/bluebase_operation_2.prefab
+- Assets/Art/Particle/Building/Prefabs/lab_red_building.prefab
+- Assets/Art/Particle/Building/Prefabs/tower_hanbingta_blue_gethit.prefab
+- Assets/Art/Particle/Building/Prefabs/tower_hanbingta_blue_bullet.prefab
+- Assets/Art/Particle/Building/Prefabs/tower_hanbingta_red_gethit.prefab
+- Assets/Art/Particle/Building/Prefabs/redbase_operation_2.prefab
+- Assets/Art/Particle/Building/Prefabs/tower_hanbingta_blue_finish.prefab
+- Assets/Art/Particle/Building/Prefabs/SummonHeroEffect.prefab
+- Assets/Art/Particle/Building/Prefabs/tower_hanbingta_red_death.prefab
+- Assets/Art/Particle/Building/Prefabs/lab_blue_finish.prefab
+- Assets/Art/Particle/Building/Prefabs/tower_hanbingta_blue_operation_1.prefab
+- Assets/Art/Particle/Building/Prefabs/Grass.prefab
+- Assets/Art/Particle/Building/Prefabs/lab_blue_building.prefab
+- Assets/Art/Particle/Building/Prefabs/lab_blue_death.prefab
+- Assets/Art/Particle/Building/Prefabs/tower_hanbingta_red_building.prefab
+- Assets/Art/Particle/Building/Prefabs/Building_mine.prefab
+- Assets/Art/Particle/Building/Prefabs/tower_hanbingta_blue_building.prefab
+- Assets/Art/Particle/Building/Prefabs/lab_red_finish.prefab
+- Assets/Art/Particle/Building/Prefabs/tower_hanbingta_red_bullet.prefab
+- Assets/Art/Particle/Building/Prefabs/redbase_death.prefab
+- Assets/Art/Particle/Building/Prefabs/bluebase_operation_1.prefab
+- Assets/Art/Particle/Building/Prefabs/bluebase_death.prefab
+- Assets/Art/Particle/Building/Prefabs/bluebase_gethit.prefab
+- Assets/Art/Particle/Building/Prefabs/zhongjiandiaoxiang_out.prefab
+- Assets/Art/Particle/Building/Prefabs/xulie_shandian007_1x4_Blue_Bone002.prefab
+- Assets/Art/Particle/Building/Prefabs/Deadtree.prefab
+- Assets/Art/Particle/Building/Prefabs/redbase_gethit.prefab
+- Assets/Art/Particle/Building/Prefabs/zhongjiandiaoxiang_dead.prefab
+- Assets/Art/Particle/Building/Prefabs/xulie_shandian007_1x4_Red_Bone003.prefab
+- Assets/Art/Particle/Building/Prefabs/tower_hanbingta_red_operation_1.prefab
+- Assets/Art/Particle/Building/Prefabs/Map.prefab
+- Assets/Art/Particle/Building/Prefabs/xulie_shandian007_1x4_Red_Bone004.prefab
+- Assets/Art/Particle/Building/Prefabs/tower_hanbingta_blue_death.prefab
+- Assets/Art/Particle/Building/Prefabs/xulie_shandian007_1x4_Blue_Bone003.prefab
+- Assets/Art/Particle/Building/Prefabs/bluebase_bullet.prefab
+- Assets/Art/Particle/Building/Prefabs/tower_hanbingta_red_finish.prefab
+- Assets/Art/Particle/Building/Prefabs/xulie_shandian007_1x4_Blue_Bone004.prefab
+- Assets/Art/Particle/Building/Prefabs/xulie_shandian007_1x4_Red_Bone002.prefab
+- Assets/Art/Particle/Building/Prefabs/redbase_operation_1.prefab
+- Assets/Art/Particle/Building/Prefabs/lab_red_death.prefab
+- Assets/Art/Particle/Building/Prefabs/Campfire.prefab
+Dependencies:
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/common_depend_asset_ab_res.bundle
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/buildings_ab_depend_asset.bundle
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/particle_character_ab_depend_asset.bundle
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/particle_building_ab_depend_asset.bundle

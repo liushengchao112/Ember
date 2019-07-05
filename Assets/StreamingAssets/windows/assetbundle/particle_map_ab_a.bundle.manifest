@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 3356032027
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3116f38f3cf060701a0b4cda993c6d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f61e52a36a37c137a45b3c2205bfe1a8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Particle/Map/Prefabs/explode03.prefab
+- Assets/Art/Particle/Map/Prefabs/fire02.prefab
+- Assets/Art/Particle/Map/Prefabs/fire01.prefab
+- Assets/Art/Particle/Map/Prefabs/GroundPositionLocator.prefab
+- Assets/Art/Particle/Map/Prefabs/explode02.prefab
+- Assets/Art/Particle/Map/Prefabs/SelectionCircle.prefab
+- Assets/Art/Particle/Map/Prefabs/fireball01.prefab
+- Assets/Art/Particle/Map/Prefabs/fireball02.prefab
+- Assets/Art/Particle/Map/Prefabs/fireball03.prefab
+- Assets/Art/Particle/Map/Prefabs/explode01.prefab
+- Assets/Art/Particle/Map/Prefabs/Target_Attack.prefab
+- Assets/Art/Particle/Map/Prefabs/deployment_pod_v2.prefab
+Dependencies:
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/common_depend_asset_ab_res.bundle
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/buildings_ab_depend_asset.bundle
+- D:/Work/EmberClient/Assets/StreamingAssets//windows/assetbundle/particle_map_ab_depend_asset.bundle

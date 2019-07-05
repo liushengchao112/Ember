@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1297081742
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 612f6bb6a16cc6859f034e3afb40d0b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 493defdaa0e39e514683ffa1a4156754
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6173134e600eec643a51b4df210a1af8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UI/UILoadPrefabs/MiniMap/MapPVE.prefab
+- Assets/Art/UI/UILoadPrefabs/MiniMap/UI_S_zdsmapicon01.prefab
+- Assets/Art/UI/UILoadPrefabs/MiniMap/B_S_Map2V2_1V1.prefab
+- Assets/Art/UI/UILoadPrefabs/MiniMap/UI_S_zdsmapicon03.prefab
+- Assets/Art/UI/UILoadPrefabs/MiniMap/F_S_2v2smapf.prefab
+- Assets/Art/UI/UILoadPrefabs/MiniMap/UI_S_zdsmapicon02.prefab
+- Assets/Art/UI/UILoadPrefabs/MiniMap/Circle.prefab
+- Assets/Art/UI/UILoadPrefabs/MiniMap/UI_S_zdsmapicon04.prefab
+Dependencies: []

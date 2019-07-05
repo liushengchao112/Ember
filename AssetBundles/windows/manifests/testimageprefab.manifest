@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3919946210
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc4409b624f8a368b2ac01ae62cf635d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7a9f72b79bb790ad2ab5268169c5d340
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/UI/Tests/TestImage.prefab
+Dependencies: []

@@ -1,0 +1,352 @@
+ManifestFileVersion: 0
+CRC: 2322094187
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: common_depend_asset_ab_res.bundle
+      Dependencies: {}
+    Info_1:
+      Name: characters_ab_depend_asset.bundle
+      Dependencies: {}
+    Info_2:
+      Name: characters_ab_cikezhiying.bundle
+      Dependencies:
+        Dependency_0: characters_ab_depend_asset.bundle
+    Info_3:
+      Name: characters_ab_cikezhiying_lod.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: characters_ab_depend_asset.bundle
+    Info_4:
+      Name: characters_ab_daerfen.bundle
+      Dependencies:
+        Dependency_0: characters_ab_depend_asset.bundle
+    Info_5:
+      Name: characters_ab_daerfen_lod.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: characters_ab_depend_asset.bundle
+    Info_6:
+      Name: characters_ab_heifanvwu.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: characters_ab_depend_asset.bundle
+        Dependency_2: particle_character_ab_depend_asset.bundle
+    Info_7:
+      Name: characters_ab_heifanvwu_lod.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: characters_ab_depend_asset.bundle
+    Info_8:
+      Name: characters_ab_hekaruina.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: characters_ab_depend_asset.bundle
+    Info_9:
+      Name: characters_ab_hekaruina_lod.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: characters_ab_depend_asset.bundle
+    Info_10:
+      Name: characters_ab_kaien.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: characters_ab_depend_asset.bundle
+    Info_11:
+      Name: characters_ab_kaien_lod.bundle
+      Dependencies:
+        Dependency_0: characters_ab_depend_asset.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+    Info_12:
+      Name: characters_ab_kuangbaozhanshi.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: characters_ab_depend_asset.bundle
+        Dependency_2: particle_map_ab_depend_asset.bundle
+    Info_13:
+      Name: characters_ab_kuangbaozhanshi_lod.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: characters_ab_depend_asset.bundle
+    Info_14:
+      Name: characters_ab_kulouqishi.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: characters_ab_depend_asset.bundle
+        Dependency_2: particle_building_ab_depend_asset.bundle
+    Info_15:
+      Name: characters_ab_kulouqishi_lod.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: characters_ab_depend_asset.bundle
+    Info_16:
+      Name: characters_ab_shitouyuansu.bundle
+      Dependencies:
+        Dependency_0: characters_ab_depend_asset.bundle
+    Info_17:
+      Name: characters_ab_shitouyuansu_lod.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: characters_ab_depend_asset.bundle
+    Info_18:
+      Name: characters_ab_zhaohuanshi.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: characters_ab_depend_asset.bundle
+        Dependency_2: particle_character_ab_depend_asset.bundle
+    Info_19:
+      Name: characters_ab_zhaohuanshi_lod.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: characters_ab_depend_asset.bundle
+    Info_20:
+      Name: buildings_ab_depend_asset.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+    Info_21:
+      Name: buildings_ab_lab_blue.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: buildings_ab_depend_asset.bundle
+    Info_22:
+      Name: buildings_ab_lab_red.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: buildings_ab_depend_asset.bundle
+    Info_23:
+      Name: buildings_ab_tower_hanbingta_yellow.bundle
+      Dependencies:
+        Dependency_0: buildings_ab_depend_asset.bundle
+    Info_24:
+      Name: buildings_ab_building_tower_t1_team1.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: buildings_ab_depend_asset.bundle
+    Info_25:
+      Name: buildings_ab_building_tower_t1_team2.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: buildings_ab_depend_asset.bundle
+    Info_26:
+      Name: buildings_ab_tower_hanbingta_blue.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: buildings_ab_depend_asset.bundle
+    Info_27:
+      Name: buildings_ab_tower_hanbingta_red.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: buildings_ab_depend_asset.bundle
+    Info_28:
+      Name: npc_ab_depend_asset.bundle
+      Dependencies: {}
+    Info_29:
+      Name: npc_ab_yeguai01.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: npc_ab_depend_asset.bundle
+    Info_30:
+      Name: npc_ab_yeguai03.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: npc_ab_depend_asset.bundle
+    Info_31:
+      Name: npc_ab_zhongjiandiaoxiang.bundle
+      Dependencies:
+        Dependency_0: buildings_ab_depend_asset.bundle
+        Dependency_1: npc_ab_depend_asset.bundle
+    Info_32:
+      Name: particle_character_ab_depend_asset.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+    Info_33:
+      Name: particle_character_ab_cikezhiyingparticle.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+    Info_34:
+      Name: particle_character_ab_cikezhiying_lodparticle.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: characters_ab_depend_asset.bundle
+        Dependency_2: particle_character_ab_depend_asset.bundle
+    Info_35:
+      Name: particle_character_ab_daerfenparticle.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+    Info_36:
+      Name: particle_character_ab_daerfen_lodparticle.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+    Info_37:
+      Name: particle_character_ab_heifanvwu.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+    Info_38:
+      Name: particle_character_ab_heifanvwu_lod.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+    Info_39:
+      Name: particle_character_ab_hekaruinaparticle.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+    Info_40:
+      Name: particle_character_ab_hekaruina_lodparticle.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+    Info_41:
+      Name: particle_character_ab_kaienparticle.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+    Info_42:
+      Name: particle_character_ab_kaien_lodparticle.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+    Info_43:
+      Name: particle_character_ab_kuangbaozhanshiparticle.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+        Dependency_2: particle_map_ab_depend_asset.bundle
+    Info_44:
+      Name: particle_character_ab_kuangbaozhanshi_lodparticle.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+    Info_45:
+      Name: particle_character_ab_kulouqishiparticle.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+        Dependency_2: particle_building_ab_depend_asset.bundle
+    Info_46:
+      Name: particle_character_ab_kulouqishi_lodparticle.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+    Info_47:
+      Name: particle_character_ab_shitouyuansu_lodparticle.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+        Dependency_2: particle_building_ab_depend_asset.bundle
+    Info_48:
+      Name: particle_character_ab_tongyongparticle.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+    Info_49:
+      Name: particle_character_ab_yeguai01particle.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+    Info_50:
+      Name: particle_character_ab_yeguai03particle.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+    Info_51:
+      Name: particle_character_ab_zhaohuanshiparticle.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+        Dependency_2: particle_building_ab_depend_asset.bundle
+    Info_52:
+      Name: particle_character_ab_zhaohuanshi_lodparticle.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: particle_character_ab_depend_asset.bundle
+    Info_53:
+      Name: particle_map_ab_depend_asset.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+    Info_54:
+      Name: particle_map_ab_a.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: buildings_ab_depend_asset.bundle
+        Dependency_2: particle_map_ab_depend_asset.bundle
+    Info_55:
+      Name: particle_building_ab_depend_asset.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+    Info_56:
+      Name: particle_building_ab_a.bundle
+      Dependencies:
+        Dependency_0: common_depend_asset_ab_res.bundle
+        Dependency_1: buildings_ab_depend_asset.bundle
+        Dependency_2: particle_character_ab_depend_asset.bundle
+        Dependency_3: particle_building_ab_depend_asset.bundle
+    Info_57:
+      Name: ui_load_ab_avatar_icon.bundle
+      Dependencies: {}
+    Info_58:
+      Name: ui_load_ab_bulletintexture.bundle
+      Dependencies: {}
+    Info_59:
+      Name: ui_load_ab_componenticon.bundle
+      Dependencies: {}
+    Info_60:
+      Name: ui_load_ab_herobusticon.bundle
+      Dependencies: {}
+    Info_61:
+      Name: ui_load_ab_heroheadcircleicon.bundle
+      Dependencies: {}
+    Info_62:
+      Name: ui_load_ab_heroheadsquareicon.bundle
+      Dependencies: {}
+    Info_63:
+      Name: ui_load_ab_heroskillicon.bundle
+      Dependencies: {}
+    Info_64:
+      Name: ui_load_ab_instituteskillicon.bundle
+      Dependencies: {}
+    Info_65:
+      Name: ui_load_ab_itemicon.bundle
+      Dependencies: {}
+    Info_66:
+      Name: ui_load_ab_minimap.bundle
+      Dependencies: {}
+    Info_67:
+      Name: ui_load_ab_newbieguidetexture.bundle
+      Dependencies: {}
+    Info_68:
+      Name: ui_load_ab_rankiconui.bundle
+      Dependencies: {}
+    Info_69:
+      Name: sound_bgm_ab_denglujiemian.bundle
+      Dependencies: {}
+    Info_70:
+      Name: sound_bgm_ab_matchfinding_02_01.bundle
+      Dependencies: {}
+    Info_71:
+      Name: sound_bgm_ab_pipeijiemian.bundle
+      Dependencies: {}
+    Info_72:
+      Name: sound_bgm_ab_shengli.bundle
+      Dependencies: {}
+    Info_73:
+      Name: sound_bgm_ab_shibai.bundle
+      Dependencies: {}
+    Info_74:
+      Name: sound_bgm_ab_zhandoubeijing.bundle
+      Dependencies: {}
+    Info_75:
+      Name: sound_bgm_ab_zhujiemian.bundle
+      Dependencies: {}
+    Info_76:
+      Name: sound_battle_ab_a.bundle
+      Dependencies: {}
+    Info_77:
+      Name: sound_mainmenu_ab_a.bundle
+      Dependencies: {}
+    Info_78:
+      Name: sound_common_ab_a.bundle
+      Dependencies: {}

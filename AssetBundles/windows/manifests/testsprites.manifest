@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 391992668
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7c960d36a97c085f66d2b1a912aeeaf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UI/LoadTexture/UnitModelIcon/master_blaster.png
+- Assets/Art/UI/LoadTexture/UnitModelIcon/ranger.jpg
+- Assets/Art/UI/LoadTexture/UnitModelIcon/harvester.png
+- Assets/Art/UI/LoadTexture/UnitModelIcon/lord_of_war.jpg
+- Assets/Art/UI/LoadTexture/UnitModelIcon/trooper.png
+- Assets/Art/UI/LoadTexture/UnitModelIcon/soul_ancient.jpg
+- Assets/Art/UI/LoadTexture/UnitModelIcon/puglings.png
+- Assets/Art/UI/LoadTexture/UnitModelIcon/phalanx.jpg
+- Assets/Art/UI/LoadTexture/UnitModelIcon/heavy_cavalry.jpg
+- Assets/Art/UI/LoadTexture/UnitModelIcon/berserker.jpg
+- Assets/Art/UI/LoadTexture/UnitModelIcon/prideborn.png
+- Assets/Art/UI/LoadTexture/UnitModelIcon/darter.jpg
+- Assets/Art/UI/LoadTexture/UnitModelIcon/sagittaria.png
+- Assets/Art/UI/LoadTexture/UnitModelIcon/hashashin.jpg
+- Assets/Art/UI/LoadTexture/UnitModelIcon/burrow_mine.png
+- Assets/Art/UI/LoadTexture/UnitModelIcon/cantabrian.jpg
+- Assets/Art/UI/LoadTexture/UnitModelIcon/light_cavalry.jpg
+- Assets/Art/UI/LoadTexture/UnitModelIcon/reaver.jpg
+- Assets/Art/UI/LoadTexture/UnitModelIcon/shield_guard.jpg
+Dependencies: []

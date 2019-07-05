@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3796268345
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c35f62152f5abb9a1b030bb27579781
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 493defdaa0e39e514683ffa1a4156754
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6173134e600eec643a51b4df210a1af8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_pifusuipian.prefab
+- Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_yingxiongsuipian.prefab
+- Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_GoldCard.prefab
+- Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_yujinbi.prefab
+- Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_lingshisuipian.prefab
+- Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_Speaker.prefab
+- Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_xiaobaoxiang.prefab
+- Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_zuanshi.prefab
+- Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_dabaoxiang.prefab
+- Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_jinbi.prefab
+- Assets/Art/UI/UILoadPrefabs/ItemIcon/I_T_ExpCard.prefab
+Dependencies: []

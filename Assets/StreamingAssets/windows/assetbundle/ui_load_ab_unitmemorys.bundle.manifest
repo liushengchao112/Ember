@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2433379150
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5171c45a62dc8f2dc619a1e400c6c4e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 493defdaa0e39e514683ffa1a4156754
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6173134e600eec643a51b4df210a1af8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UI/UILoadPrefabs/UnitMemorys/pristine_memory_cube.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitMemorys/complete_memory_codex.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitMemorys/intact_memory_cube.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitMemorys/partial_memory_codex.prefab
+- Assets/Art/UI/UILoadPrefabs/UnitMemorys/damaged_memory_cube.prefab
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1886685052
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0525047a0c8ecfa0510069d7151794a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/AudioClip/BGM/Ember_Main Menu_Update_04B.mp3
+Dependencies: []
